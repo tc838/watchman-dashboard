@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T09:33-07:00",
+ "generatedAt": "2026-10-14T09:39-07:00",
  "kpi": {
   "open_count": 53,
   "open_value": 447834.0,
@@ -68,6 +68,15 @@
  },
  "pipeline": [
   {
+   "name": "Sharyl Bancroft",
+   "value": 5000.0,
+   "stage": "New Lead",
+   "owner": "Tym M",
+   "days": 1,
+   "tasks": 0,
+   "flag": null
+  },
+  {
    "name": "Leo Welch",
    "value": 5000.0,
    "stage": "New Lead",
@@ -87,15 +96,6 @@
   },
   {
    "name": "Janae Jones",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 0,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Sharyl Bancroft",
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
@@ -230,17 +230,17 @@
    "flag": null
   },
   {
-   "name": "Nathan Price",
-   "value": 5000.0,
+   "name": "Kevin Shufford",
+   "value": 2500.0,
    "stage": "Contacted/Working on It",
    "owner": "Nehemiah",
-   "days": 1,
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
   {
-   "name": "Kevin Shufford",
-   "value": 2500.0,
+   "name": "Nathan Price",
+   "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Nehemiah",
    "days": 1,
