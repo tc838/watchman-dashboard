@@ -1,0 +1,48 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Watchman · Cornerstone Residential Concrete Sales</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#0f172a;--mut:#64748b;--line:#e2e8f0;--acc:#4f46e5;--red:#dc2626;--grn:#16a34a;--amb:#d97706}
+*{box-sizing:border-box}body{margin:0;font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{background:#0f172a;color:#fff;padding:18px 20px}header h1{margin:0;font-size:20px}header p{margin:4px 0 0;color:#cbd5e1;font-size:13px}
+nav{display:flex;gap:4px;overflow-x:auto;background:#fff;border-bottom:1px solid var(--line);padding:0 12px;position:sticky;top:0;z-index:5}
+nav a{padding:12px 14px;color:var(--mut);text-decoration:none;white-space:nowrap;border-bottom:3px solid transparent;font-weight:600}
+nav a.on{color:var(--acc);border-color:var(--acc)}main{max-width:1100px;margin:auto;padding:18px}
+section{display:none}section.on{display:block}.grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:12px}
+.kpi .v{font-size:26px;font-weight:700}.kpi .l{color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+h2{font-size:16px;margin:0 0 10px}.bar{display:flex;align-items:center;gap:8px;margin:6px 0}.bar .n{width:180px;font-size:13px}
+.bar .t{flex:1;background:#eef2f7;border-radius:6px;height:22px;overflow:hidden}.bar .f{height:100%;background:var(--acc)}
+.bar .x{width:130px;text-align:right;font-size:13px;color:var(--mut)}table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px;border-bottom:1px solid var(--line);vertical-align:top}th{color:var(--mut);font-size:12px;text-transform:uppercase}
+.tag{display:inline-block;padding:2px 8px;border-radius:99px;font-size:12px;font-weight:600;background:#eef2ff;color:var(--acc)}
+.tag.r{background:#fee2e2;color:var(--red)}.tag.a{background:#fef3c7;color:var(--amb)}.tag.g{background:#dcfce7;color:var(--grn)}
+.mut{color:var(--mut)}.draft{background:#f8fafc;border-left:3px solid var(--acc);padding:8px;margin-top:6px;font-size:13px;white-space:pre-wrap}
+.scroll{overflow-x:auto}.empty{text-align:center;padding:30px;color:var(--mut)}
+@media(max-width:600px){.bar .n{width:110px}.bar .x{width:90px}.kpi .v{font-size:21px}}
+</style></head><body>
+<header><h1>Watchman · Residential Concrete Sales</h1><p id="gen">Loading…</p></header>
+<nav id="nav"></nav><main id="main"></main>
+<script>
+const T=[['overview','Overview'],['pipeline','Pipeline'],['tasks','Tasks'],['playbook','Team playbook'],['calls','Call scores'],['risks','Risks']];
+const $=s=>document.querySelector(s),m=v=>'$'+Math.round(v||0).toLocaleString(),e=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fd=d=>d?new Date(d).toLocaleString('en-US',{timeZone:'America/Phoenix',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' AZ':'—';
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(D=>{
+$('#gen').textContent='Updated '+fd(D.generatedAt)+' · live from GoHighLevel';
+$('#nav').innerHTML=T.map(([k,l])=>`<a href="#${k}" data-k="${k}">${l}</a>`).join('');
+const K=D.kpi,st=D.by_stage,mx=Math.max(...Object.values(st).map(s=>s.value),1),ow=D.owners,omx=Math.max(...Object.values(ow).map(o=>o.value),1);
+const S={};
+S.overview=`<div class="grid">${[['Open opps',K.open_count],['Open value',m(K.open_value)],['Won',K.won_count+' · '+m(K.won_value)],['Lost',K.lost_count],['Open tasks',D.tasks.length],['Overdue tasks',D.overdue],['Risks',D.risks.length]].map(([l,v])=>`<div class="card kpi"><div class="l">${l}</div><div class="v">${v}</div></div>`).join('')}</div>
+<div class="card"><h2>Stage funnel</h2>${Object.entries(st).map(([n,s])=>`<div class="bar"><div class="n">${e(n)}</div><div class="t"><div class="f" style="width:${s.value/mx*100}%;background:${s.color||'#4f46e5'}"></div></div><div class="x">${s.count} · ${m(s.value)}</div></div>`).join('')}</div>
+<div class="card"><h2>Won vs lost</h2><div class="bar"><div class="n">Won</div><div class="t"><div class="f" style="width:${K.won_count/(K.won_count+K.lost_count)*100}%;background:var(--grn)"></div></div><div class="x">${K.won_count} · ${m(K.won_value)}</div></div><div class="bar"><div class="n">Lost</div><div class="t"><div class="f" style="width:${K.lost_count/(K.won_count+K.lost_count)*100}%;background:var(--red)"></div></div><div class="x">${K.lost_count} · ${m(K.lost_value)}</div></div><p class="mut">Win rate ${(K.won_count/(K.won_count+K.lost_count)*100).toFixed(1)}% by count.</p></div>
+<div class="card"><h2>Open pipeline by owner</h2>${Object.entries(ow).map(([n,o])=>`<div class="bar"><div class="n">${e(n)}</div><div class="t"><div class="f" style="width:${o.value/omx*100}%"></div></div><div class="x">${o.count} · ${m(o.value)}</div></div>`).join('')}</div>`;
+S.pipeline=`<div class="card scroll"><h2>Open opportunities (${D.pipeline.length})</h2><table><tr><th>Name</th><th>Stage</th><th>Owner</th><th>Value</th><th>Days in stage</th><th>Flag</th></tr>${D.pipeline.map(p=>`<tr><td>${e(p.name)}</td><td>${e(p.stage)}</td><td>${e(p.owner)}</td><td>${m(p.value)}</td><td>${p.days??'—'}</td><td>${p.flag?`<span class="tag r">${e(p.flag)}</span>`:p.tasks?'<span class="tag g">has task</span>':'<span class="tag a">no task</span>'}</td></tr>`).join('')}</table></div>`;
+const by={};D.tasks.forEach(t=>(by[t.owner]=by[t.owner]||[]).push(t));
+S.tasks=Object.entries(by).map(([o,ts])=>`<div class="card"><h2>${e(o)} · ${ts.length} open</h2>${ts.map(t=>`<div style="padding:8px 0;border-bottom:1px solid var(--line)"><b>${e(t.title)}</b> ${t.contact?'· '+e(t.contact):''} <span class="tag ${t.overdue?'r':''}">due ${fd(t.due)}</span>${t.notes?`<div class="mut" style="font-size:13px">${e(t.notes)}</div>`:''}${t.draft?`<div class="draft"><b>Recommended reply (draft):</b>\n${e(t.draft)}</div>`:''}</div>`).join('')}</div>`).join('')||'<div class="card empty">No open tasks.</div>';
+S.playbook=Object.entries(D.playbook).map(([o,a])=>`<div class="card"><h2>${e(o)} — top actions</h2><ol>${a.map(x=>`<li>${e(x)}</li>`).join('')}</ol></div>`).join('');
+S.calls=D.calls.length?`<div class="card scroll"><table><tr><th>Date</th><th>Contact</th><th>Owner</th><th>Score</th><th>Coaching notes</th></tr>${D.calls.map(c=>`<tr><td>${fd(c.date)}</td><td>${e(c.contact)}</td><td>${e(c.owner)}</td><td><span class="tag ${c.score>=80?'g':c.score>=60?'a':'r'}">${c.score}/100</span></td><td>${e(c.notes)}</td></tr>`).join('')}</table></div>`:`<div class="card empty"><h2>No calls scored yet</h2><p>${e(D.calls_status)}</p><p>Turn on call recording for the GHL phone numbers; Watchman will score each call 0–100 with coaching notes once transcripts are available.</p></div>`;
+S.risks=`<div class="card"><h2>Risks (${D.risks.length})</h2><table>${D.risks.map(r=>`<tr><td><span class="tag ${r.type=='Stale'?'a':'r'}">${e(r.type)}</span></td><td>${e(r.text)}</td></tr>`).join('')}</table></div>`;
+$('#main').innerHTML=T.map(([k])=>`<section id="s-${k}">${S[k]}</section>`).join('');
+const go=()=>{const k=(location.hash.slice(1)||'overview');document.querySelectorAll('section,nav a').forEach(x=>x.classList.toggle('on',x.id=='s-'+k||x.dataset.k==k))};
+addEventListener('hashchange',go);go();
+}).catch(err=>{$('#gen').textContent='Could not load data.json: '+err});
+</script></body></html>
