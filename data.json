@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T09:39-07:00",
+ "generatedAt": "2026-10-14T11:55-07:00",
  "kpi": {
   "open_count": 53,
   "open_value": 447834.0,
@@ -108,9 +108,9 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 32,
+   "days": 33,
    "tasks": 0,
-   "flag": "Contacted \u00b7 32d no stage move"
+   "flag": "Contacted \u00b7 33d no stage move"
   },
   {
    "name": "Allen Bosco",
@@ -230,6 +230,15 @@
    "flag": null
   },
   {
+   "name": "Nathan Price",
+   "value": 5000.0,
+   "stage": "Contacted/Working on It",
+   "owner": "Nehemiah",
+   "days": 2,
+   "tasks": 1,
+   "flag": null
+  },
+  {
    "name": "Kevin Shufford",
    "value": 2500.0,
    "stage": "Contacted/Working on It",
@@ -239,20 +248,11 @@
    "flag": null
   },
   {
-   "name": "Nathan Price",
-   "value": 5000.0,
-   "stage": "Contacted/Working on It",
-   "owner": "Nehemiah",
-   "days": 1,
-   "tasks": 1,
-   "flag": null
-  },
-  {
    "name": "E.J. Martin",
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Nehemiah",
-   "days": 1,
+   "days": 2,
    "tasks": 0,
    "flag": null
   },
@@ -261,7 +261,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 1,
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
@@ -270,7 +270,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 1,
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
@@ -279,7 +279,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 1,
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
@@ -288,7 +288,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 1,
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
@@ -297,7 +297,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Nehemiah",
-   "days": 1,
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
@@ -306,7 +306,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 0,
+   "days": 1,
    "tasks": 1,
    "flag": null
   },
@@ -316,6 +316,15 @@
    "stage": "Appointment Set",
    "owner": "Tym M",
    "days": 6,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "name": "Lisa Higgins",
+   "value": 5000.0,
+   "stage": "Appointment Set",
+   "owner": "Nehemiah",
+   "days": 2,
    "tasks": 1,
    "flag": null
   },
@@ -333,15 +342,6 @@
    "value": 0.0,
    "stage": "Appointment Set",
    "owner": "Joshua Z",
-   "days": 1,
-   "tasks": 1,
-   "flag": null
-  },
-  {
-   "name": "Lisa Higgins",
-   "value": 5000.0,
-   "stage": "Appointment Set",
-   "owner": "Nehemiah",
    "days": 1,
    "tasks": 1,
    "flag": null
@@ -396,27 +396,27 @@
    "value": 8531.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 14,
+   "days": 15,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 14d no stage move"
+   "flag": "Estimate Sent \u00b7 15d no stage move"
   },
   {
    "name": "Clarence J Byers",
    "value": 8673.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 7d no stage move"
+   "flag": "Estimate Sent \u00b7 8d no stage move"
   },
   {
    "name": "Larry Brown",
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 7d no stage move"
+   "flag": "Estimate Sent \u00b7 8d no stage move"
   },
   {
    "name": "Raymond Nielsen",
@@ -441,7 +441,7 @@
    "value": 5100.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 0,
    "flag": "Estimate sent, no follow-up task"
   },
@@ -450,7 +450,7 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 1,
    "flag": null
   },
@@ -522,7 +522,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Tym M",
-   "days": 18,
+   "days": 19,
    "tasks": 0,
    "flag": null
   },
@@ -531,7 +531,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 1,
+   "days": 2,
    "tasks": 2,
    "flag": null
   },
@@ -540,7 +540,7 @@
    "value": 5000.0,
    "stage": "Lost",
    "owner": "Nehemiah",
-   "days": 46,
+   "days": 47,
    "tasks": 0,
    "flag": "In Lost stage but status open"
   }
@@ -551,7 +551,7 @@
    "contact": "",
    "owner": "Joshua Z",
    "due": "2026-10-14T17:00:00.000Z",
-   "overdue": false,
+   "overdue": true,
    "notes": "Confirm the plot-diagram deliverable, price, turnaround, and whether the customer wants the mapping service. Stage: Estimate Sent/Follow Up. Priority: high.",
    "draft": ""
   },
@@ -682,7 +682,7 @@
    "draft": ""
   }
  ],
- "overdue": 0,
+ "overdue": 1,
  "playbook": {
   "Nehemiah": [
    "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 20d no stage move",
@@ -692,16 +692,16 @@
   ],
   "Joshua Z": [
    "Kyle Ray Sauls (Estimate Sent/Follow Up, $22,000): Estimate Sent \u00b7 29d no stage move",
-   "Chris Rodgers (Estimate Sent/Follow Up, $8,531): Estimate Sent \u00b7 14d no stage move",
+   "Chris Rodgers (Estimate Sent/Follow Up, $8,531): Estimate Sent \u00b7 15d no stage move",
    "Todd Canale (Long-Term Nurture, $110,000): no open task \u2014 set next step"
   ],
   "Tym M": [
    "Tim Maze (Estimate Sent/Follow Up, $21,000): Estimate Sent \u00b7 21d no stage move",
-   "Clarence J Byers (Estimate Sent/Follow Up, $8,674): Estimate Sent \u00b7 7d no stage move",
+   "Clarence J Byers (Estimate Sent/Follow Up, $8,674): Estimate Sent \u00b7 8d no stage move",
    "Deshawn Crockett (Estimate Sent/Follow Up, $6,903): Estimate Sent \u00b7 7d no stage move",
    "Raymond Nielsen (Estimate Sent/Follow Up, $6,100): Estimate Sent \u00b7 7d no stage move",
    "Louis Rosales (Estimate Sent/Follow Up, $5,100): Estimate sent, no follow-up task",
-   "Yordanos Johnson (Contacted/Working on It, $5,000): Contacted \u00b7 32d no stage move"
+   "Yordanos Johnson (Contacted/Working on It, $5,000): Contacted \u00b7 33d no stage move"
   ]
  },
  "calls": [],
@@ -709,19 +709,19 @@
  "risks": [
   {
    "type": "Estimate no follow-up",
-   "text": "Louis Rosales \u2014 $5,100, 4d in Estimate Sent, no open task (Tym M)"
+   "text": "Louis Rosales \u2014 $5,100, 5d in Estimate Sent, no open task (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Clarence J Byers \u2014 Estimate Sent \u00b7 7d no stage move, $8,674 (Tym M)"
+   "text": "Clarence J Byers \u2014 Estimate Sent \u00b7 8d no stage move, $8,674 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Larry Brown \u2014 Estimate Sent \u00b7 7d no stage move, $5,000 (Tym M)"
+   "text": "Larry Brown \u2014 Estimate Sent \u00b7 8d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Chris Rodgers \u2014 Estimate Sent \u00b7 14d no stage move, $8,531 (Joshua Z)"
+   "text": "Chris Rodgers \u2014 Estimate Sent \u00b7 15d no stage move, $8,531 (Joshua Z)"
   },
   {
    "type": "Stale",
@@ -781,7 +781,7 @@
   },
   {
    "type": "Stale",
-   "text": "Yordanos Johnson \u2014 Contacted \u00b7 32d no stage move, $5,000 (Tym M)"
+   "text": "Yordanos Johnson \u2014 Contacted \u00b7 33d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
