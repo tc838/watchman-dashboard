@@ -1,29 +1,29 @@
 {
- "generatedAt": "2026-10-15T07:20-07:00",
+ "generatedAt": "2026-10-16T07:13-07:00",
  "kpi": {
-  "open_count": 47,
-  "open_value": 412834.0,
-  "active_count": 46,
-  "active_value": 407834.0,
-  "won_count": 24,
-  "won_value": 198870.7,
-  "lost_count": 261,
-  "lost_value": 2135135.0
+  "open_count": 39,
+  "open_value": 368331.0,
+  "active_count": 38,
+  "active_value": 363331.0,
+  "won_count": 26,
+  "won_value": 238870.7,
+  "lost_count": 269,
+  "lost_value": 2174638.0
  },
  "by_stage": {
   "New Lead": {
-   "count": 5,
-   "value": 20000.0,
+   "count": 2,
+   "value": 5000.0,
    "color": "#DC2626"
   },
   "Contacted/Working on It": {
-   "count": 15,
-   "value": 75500.0,
+   "count": 11,
+   "value": 53000.0,
    "color": "#EA580C"
   },
   "Appointment Set": {
-   "count": 5,
-   "value": 20000.0,
+   "count": 3,
+   "value": 10000.0,
    "color": "#CA8A04"
   },
   "Needs Proposal": {
@@ -33,12 +33,12 @@
   },
   "Estimate Sent/Follow Up": {
    "count": 15,
-   "value": 146934.0,
+   "value": 144931.0,
    "color": "#4F46E5"
   },
   "Long-Term Nurture": {
-   "count": 6,
-   "value": 145400.0,
+   "count": 7,
+   "value": 150400.0,
    "color": "#64748B"
   },
   "Contract Signed/WON": {
@@ -53,67 +53,36 @@
   }
  },
  "owners": {
-  "Unassigned": {
-   "count": 1,
-   "value": 0.0
+  "Joshua Z": {
+   "count": 7,
+   "value": 148531.0
   },
   "Tym M": {
-   "count": 28,
-   "value": 161976.5
+   "count": 21,
+   "value": 124973.5
   },
   "Nehemiah": {
-   "count": 13,
-   "value": 102326.5
-  },
-  "Joshua Z": {
-   "count": 5,
-   "value": 148531.0
+   "count": 11,
+   "value": 94826.5
   }
  },
  "pipeline": [
-  {
-   "name": "Janae Jones",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 1,
-   "tasks": 1,
-   "flag": null
-  },
-  {
-   "name": "Sharyl Bancroft",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 1,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Leo Welch",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 1,
-   "tasks": 0,
-   "flag": null
-  },
   {
    "name": "Hailee King",
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 1,
-   "tasks": 0,
-   "flag": null
+   "days": 2,
+   "tasks": 1,
+   "flag": "New Lead \u00b7 2d no stage move"
   },
   {
-   "name": "martinez sr frank b. \u2014 Driveway or parking area",
+   "name": "Jinni Paguaga \u2014 Driveway or parking area",
    "value": 0.0,
    "stage": "New Lead",
-   "owner": "Unassigned",
+   "owner": "Joshua Z",
    "days": 0,
-   "tasks": 0,
+   "tasks": 1,
    "flag": null
   },
   {
@@ -121,7 +90,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 8,
+   "days": 9,
    "tasks": 0,
    "flag": null
   },
@@ -130,8 +99,8 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 8,
-   "tasks": 0,
+   "days": 9,
+   "tasks": 1,
    "flag": null
   },
   {
@@ -139,16 +108,7 @@
    "value": 8000.0,
    "stage": "Contacted/Working on It",
    "owner": "Joshua Z",
-   "days": 8,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Jose Montelongo",
-   "value": 5000.0,
-   "stage": "Contacted/Working on It",
-   "owner": "Tym M",
-   "days": 7,
+   "days": 9,
    "tasks": 1,
    "flag": null
   },
@@ -157,7 +117,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
    "flag": null
   },
@@ -166,7 +126,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
    "flag": null
   },
@@ -175,17 +135,8 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Nehemiah",
-   "days": 2,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Kevin Shufford",
-   "value": 2500.0,
-   "stage": "Contacted/Working on It",
-   "owner": "Nehemiah",
-   "days": 2,
-   "tasks": 0,
+   "days": 3,
+   "tasks": 1,
    "flag": null
   },
   {
@@ -193,7 +144,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Nehemiah",
-   "days": 2,
+   "days": 3,
    "tasks": 0,
    "flag": null
   },
@@ -202,16 +153,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 2,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Carlye Farol",
-   "value": 5000.0,
-   "stage": "Contacted/Working on It",
-   "owner": "Tym M",
-   "days": 2,
+   "days": 3,
    "tasks": 0,
    "flag": null
   },
@@ -220,7 +162,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 2,
+   "days": 3,
    "tasks": 0,
    "flag": null
   },
@@ -229,26 +171,17 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 2,
+   "days": 3,
    "tasks": 0,
    "flag": null
   },
   {
-   "name": "Mozelle Henry",
-   "value": 5000.0,
+   "name": "martinez sr frank b. \u2014 Driveway or parking area",
+   "value": 0.0,
    "stage": "Contacted/Working on It",
-   "owner": "Nehemiah",
-   "days": 2,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Paul Crump",
-   "value": 5000.0,
-   "stage": "Contacted/Working on It",
-   "owner": "Tym M",
-   "days": 1,
-   "tasks": 0,
+   "owner": "Joshua Z",
+   "days": 0,
+   "tasks": 1,
    "flag": null
   },
   {
@@ -256,34 +189,16 @@
    "value": 5000.0,
    "stage": "Appointment Set",
    "owner": "Tym M",
-   "days": 6,
+   "days": 7,
    "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Gary Bovard",
-   "value": 5000.0,
-   "stage": "Appointment Set",
-   "owner": "Tym M",
-   "days": 2,
-   "tasks": 1,
-   "flag": null
+   "flag": "Appointment Set \u00b7 7d no stage move"
   },
   {
    "name": "Tim Cox \u2014 Foundation or concrete for a structure",
    "value": 0.0,
    "stage": "Appointment Set",
    "owner": "Joshua Z",
-   "days": 2,
-   "tasks": 0,
-   "flag": null
-  },
-  {
-   "name": "Lisa Higgins",
-   "value": 5000.0,
-   "stage": "Appointment Set",
-   "owner": "Nehemiah",
-   "days": 2,
+   "days": 3,
    "tasks": 1,
    "flag": null
   },
@@ -292,7 +207,7 @@
    "value": 5000.0,
    "stage": "Appointment Set",
    "owner": "Tym M",
-   "days": 0,
+   "days": 1,
    "tasks": 0,
    "flag": null
   },
@@ -301,106 +216,79 @@
    "value": 16200.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 30,
-   "tasks": 2,
-   "flag": "Estimate Sent \u00b7 30d no stage move"
+   "days": 31,
+   "tasks": 1,
+   "flag": "Estimate Sent \u00b7 31d no stage move"
   },
   {
    "name": "Kyle Ray Sauls",
    "value": 22000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 30,
+   "days": 31,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 30d no stage move"
+   "flag": "Estimate Sent \u00b7 31d no stage move"
   },
   {
    "name": "Jorge Villasaez",
    "value": 4200.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 22,
+   "days": 23,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 22d no stage move"
+   "flag": "Estimate Sent \u00b7 23d no stage move"
   },
   {
    "name": "Tim Maze",
    "value": 21000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 22,
+   "days": 23,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 22d no stage move"
+   "flag": "Estimate Sent \u00b7 23d no stage move"
   },
   {
    "name": "Tony Mackelprang",
    "value": 23226.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 21,
+   "days": 22,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 21d no stage move"
+   "flag": "Estimate Sent \u00b7 22d no stage move"
   },
   {
    "name": "Chris Rodgers",
    "value": 8531.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 15,
+   "days": 16,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 15d no stage move"
+   "flag": "Estimate Sent \u00b7 16d no stage move"
   },
   {
    "name": "Clarence J Byers",
    "value": 8673.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 8,
+   "days": 9,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 8d no stage move"
-  },
-  {
-   "name": "Larry Brown",
-   "value": 5000.0,
-   "stage": "Estimate Sent/Follow Up",
-   "owner": "Tym M",
-   "days": 8,
-   "tasks": 1,
-   "flag": "Estimate Sent \u00b7 8d no stage move"
+   "flag": "Estimate Sent \u00b7 9d no stage move"
   },
   {
    "name": "Raymond Nielsen",
    "value": 6100.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 8,
+   "days": 9,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 8d no stage move"
-  },
-  {
-   "name": "Deshawn Crockett",
-   "value": 6903.0,
-   "stage": "Estimate Sent/Follow Up",
-   "owner": "Tym M",
-   "days": 8,
-   "tasks": 1,
-   "flag": "Estimate Sent \u00b7 8d no stage move"
-  },
-  {
-   "name": "Louis Rosales",
-   "value": 5100.0,
-   "stage": "Estimate Sent/Follow Up",
-   "owner": "Tym M",
-   "days": 5,
-   "tasks": 1,
-   "flag": null
+   "flag": "Estimate Sent \u00b7 9d no stage move"
   },
   {
    "name": "Roger D. Miller",
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
    "flag": null
   },
@@ -409,7 +297,7 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 2,
+   "days": 3,
    "tasks": 1,
    "flag": null
   },
@@ -418,7 +306,7 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Tym M",
-   "days": 2,
+   "days": 3,
    "tasks": 1,
    "flag": null
   },
@@ -427,7 +315,34 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 1,
+   "days": 2,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "name": "Janae Jones",
+   "value": 5000.0,
+   "stage": "Estimate Sent/Follow Up",
+   "owner": "Tym M",
+   "days": 0,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "name": "Paul Crump",
+   "value": 5000.0,
+   "stage": "Estimate Sent/Follow Up",
+   "owner": "Tym M",
+   "days": 0,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "name": "Gary Bovard",
+   "value": 5000.0,
+   "stage": "Estimate Sent/Follow Up",
+   "owner": "Tym M",
+   "days": 0,
    "tasks": 1,
    "flag": null
   },
@@ -436,7 +351,7 @@
    "value": 7400.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 41,
+   "days": 42,
    "tasks": 0,
    "flag": null
   },
@@ -445,7 +360,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 41,
+   "days": 42,
    "tasks": 1,
    "flag": null
   },
@@ -454,7 +369,7 @@
    "value": 13000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 41,
+   "days": 42,
    "tasks": 1,
    "flag": null
   },
@@ -463,7 +378,7 @@
    "value": 110000.0,
    "stage": "Long-Term Nurture",
    "owner": "Joshua Z",
-   "days": 41,
+   "days": 42,
    "tasks": 0,
    "flag": null
   },
@@ -472,7 +387,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Tym M",
-   "days": 19,
+   "days": 20,
    "tasks": 0,
    "flag": null
   },
@@ -481,7 +396,16 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 2,
+   "days": 3,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "name": "Mozelle Henry",
+   "value": 5000.0,
+   "stage": "Long-Term Nurture",
+   "owner": "Nehemiah",
+   "days": 0,
    "tasks": 1,
    "flag": null
   },
@@ -490,100 +414,19 @@
    "value": 5000.0,
    "stage": "Lost",
    "owner": "Nehemiah",
-   "days": 47,
+   "days": 48,
    "tasks": 0,
    "flag": "In Lost stage but status open"
   }
  ],
  "tasks": [
   {
-   "title": "WATCHMAN: Act on buying signal \u2014 Scott Elliot",
-   "contact": "",
-   "owner": "Joshua Z",
-   "due": "2026-10-14T17:00:00.000Z",
-   "overdue": true,
-   "notes": "Confirm the plot-diagram deliverable, price, turnaround, and whether the customer wants the mapping service. Stage: Estimate Sent/Follow Up. Priority: high.",
-   "draft": ""
-  },
-  {
-   "title": "Follow Up",
-   "contact": "Roger Spears",
-   "owner": "Nehemiah",
-   "due": "2026-10-15T15:00:00.000Z",
-   "overdue": false,
-   "notes": "client asked for two week follow up, follow up in 1",
-   "draft": ""
-  },
-  {
-   "title": "WATCHMAN: Site visit TODAY 12\u20132pm \u2014 Jose Montelongo (confirm tech + courtesy text)",
-   "contact": "Jose Montelongo",
+   "title": "First Touch",
+   "contact": "Nathan Price",
    "owner": "Tym M",
-   "due": "2026-10-15T18:00:00.000Z",
+   "due": "2026-10-16T16:00:00.000Z",
    "overdue": false,
-   "notes": "Next action: Tim booked a site visit for Thu Oct 15, 12\u20132pm, and promised a 30-min courtesy text. Confirm who is going (Tim said probably Nehemiah) and that it is on the calendar. Scope: outdoor kitchen anchoring \u2014 3x3 ft, ~18 in deep footers vs. a pad; he also wants a 110V electrical run quoted; aware of $2,500 minimum. Opp is still in Contacted/Working on It \u2014 move to Appointment Set.\nContext: Call Oct 13 (Tim, 7.4 min).",
-   "draft": "Hi Jose, this is Tim with Cornerstone Build Company. Just confirming our visit today between 12 and 2pm to look at the outdoor kitchen footers and the electrical run. Our tech will text you about 30 minutes before arrival."
-  },
-  {
-   "title": "WATCHMAN: Send footing quote by EOD today \u2014 Arizona Sign Co (Janae Jones)",
-   "contact": "Janae Jones",
-   "owner": "Joshua Z",
-   "due": "2026-10-15T20:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Joshua promised Don at Arizona Sign Company a quote by end of day Thursday Oct 15; they build their bid Friday morning. Scope: 6 small monument-sign footings + 1 larger entry monument footing with pad, Mister Car Wash project in Tucson. Plans/engineering were emailed to tc@cornerstonebuildcompany.com (Janae copied). Opp is still in New Lead with a $5k placeholder and owned by Tym; update value/stage once quoted.\nContext: Call Oct 13 (Joshua, 2 min): commercial bid, likely Nov/Dec start if they win.",
-   "draft": "Hi Don, Joshua with Cornerstone. Attached is our quote for the Mister Car Wash monument sign footings in Tucson (six small monument footings plus the entry monument footing with pad), based on the plans you sent. Happy to walk through any line items before your bid goes in tomorrow morning."
-  },
-  {
-   "title": "Follow up \u2014 confirm estimate receipt (Marvin Lambert)",
-   "contact": "Marvin Lambert",
-   "owner": "Nehemiah",
-   "due": "2026-10-15T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Confirm proposal receipt at marvinlambert551@gmail.com and ask what questions came up. Stage: Estimate Sent/Follow Up.",
-   "draft": "Hey Marvin, Nehemiah with Cornerstone Build Company \u2014 just confirming you got the proposal we sent to marvinlambert551@gmail.com. Anything you want us to clarify on scope, timing, or price?\nComplete when: Receipt confirmed, response logged, next decision date or close reason set."
-  },
-  {
-   "title": "Follow up \u2014 measurements after court (Robert Holmgren \u2014 WON)",
-   "contact": "Robert Holmgren",
-   "owner": "Nehemiah",
-   "due": "2026-10-15T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Opportunity is already Contract Signed/WON. Robert texted he will measure once home. Confirm court/HOA-city outcome on existing rock vs all-concrete option and pull measurements for scope.",
-   "draft": "Hi Robert, Nehemiah with Cornerstone \u2014 circling back after court. Were you able to measure, and did they allow the existing rock or should we price the all-concrete option? Happy to jump on a quick call once you have the numbers.\nComplete when: Measurements + court outcome logged; hand off / update Active Projects if needed. Do not change Won status unless TC directs."
-  },
-  {
-   "title": "WATCHMAN: Collect variance docs + schedule call (Scott Elliot)",
-   "contact": "Scott Elliot",
-   "owner": "Joshua Z",
-   "due": "2026-10-15T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Hot buying signal. Scott needs variance/engineering plot diagrams; said he will send info for a complete project quote and wants a quick call. Stage: Estimate Sent/Follow Up ($16.2k). Call him and collect City variance paperwork / plot docs.",
-   "draft": "Hi Scott, this is Joshua with Cornerstone Build Company. Ready whenever you are for that quick call to walk through the variance / plot docs so we can build the full project quote. What time works today or tomorrow \u2014 and can you text/email whatever the City gave you?\nComplete when: Docs received OR call completed with next exact step; note plot-diagram deliverable/price/turnaround if he wants mapping service.\nReplaces orphan opportunity-only task EHGIFrJb0mZk04CPznTX (API cannot update tasks without contactId)."
-  },
-  {
-   "title": "Follow up \u2014 confirm estimate receipt (Michael Somerton)",
-   "contact": "Michael Somerton",
-   "owner": "Nehemiah",
-   "due": "2026-10-15T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Confirm he received the proposal sent to mjsomerton@hotmail.com and capture questions / next decision date. Stage: Estimate Sent/Follow Up. He was lukewarm on price but agreed to end-of-week check-ins.",
-   "draft": "Hi Michael, this is Nehemiah with Cornerstone Build Company. Just confirming you received the estimate we sent to mjsomerton@hotmail.com \u2014 any questions on scope, timing, or pricing after you looked it over?\nComplete when: Receipt confirmed, response documented, next exact decision date or close reason set. (Duplicate WATCHMAN receipt task already closed.)"
-  },
-  {
-   "title": "Follow up \u2014 8x10 pad quote response (Byron Chancellor)",
-   "contact": "Byron Chancellor",
-   "owner": "Nehemiah",
-   "due": "2026-10-15T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Follow up on the ~$3,700 8x10 pad quote (Estimate Sent/Follow Up, $5k placeholder). Last outbound explained Google Earth access / side-gate and offered late this week or next week.",
-   "draft": "Hey Byron, just checking in on the 8x10 pad around $3,700. Does that range work, and would you rather lock a day late this week or next week?\nComplete when: Yes/no on price, schedule set, or documented close/nurture reason."
-  },
-  {
-   "title": "Follow Up",
-   "contact": "Roger D. Miller",
-   "owner": "Nehemiah",
-   "due": "2026-10-16T15:00:00.000Z",
-   "overdue": false,
-   "notes": "Findout measurments\nNeed Address & Email",
+   "notes": "",
    "draft": ""
   },
   {
@@ -605,15 +448,6 @@
    "draft": "Hi Chris, this is Joshua with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
   },
   {
-   "title": "WATCHMAN: Estimate follow-up \u2014 Louis Rosales",
-   "contact": "Louis Rosales",
-   "owner": "Tym M",
-   "due": "2026-10-16T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Estimate Sent/Follow Up for 5 days ($5,100) with no open follow-up task. Call or text to confirm they received the estimate, answer questions, and get a decision date. If they went another direction, mark the opp Lost with a reason.",
-   "draft": "Hi Louis, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
-  },
-  {
    "title": "WATCHMAN: Estimate follow-up \u2014 Kyle Ray Sauls",
    "contact": "Kyle Ray Sauls",
    "owner": "Joshua Z",
@@ -623,13 +457,49 @@
    "draft": "Hi Kyle, this is Joshua with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
   },
   {
-   "title": "WATCHMAN: Send final estimate for signature \u2014 Lisa Higgins (pickleball slab)",
-   "contact": "Lisa Higgins",
+   "title": "WATCHMAN: Confirm appointment / next step \u2014 Tim Cox",
+   "contact": "Tim Cox",
+   "owner": "Joshua Z",
+   "due": "2026-10-16T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Appointment Set for foundation/structure concrete but $0 value and no open task (stale since ~Oct 12). Confirm whether the appointment happened; if yes move to Needs Proposal/Estimate Sent with a value; if no, rebook or mark Lost.",
+   "draft": "Hi Tim, Joshua with Cornerstone. Just confirming where we landed on the foundation/concrete visit \u2014 do you still want us to come out, or has the project timeline changed?"
+  },
+  {
+   "title": "WATCHMAN: Confirm Arizona Sign Co bid outcome \u2014 Janae/Don",
+   "contact": "Janae Jones",
+   "owner": "Joshua Z",
+   "due": "2026-10-16T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Footing quote was sent (prior WATCHMAN task completed; opp now Estimate Sent $5k). Don said they bid Friday morning on Mister Car Wash Tucson. Call/text today to confirm they got the quote and ask how the bid went / next steps. Update value if quote differs from $5k placeholder.",
+   "draft": "Hi Don, Joshua with Cornerstone. Wanted to make sure you got the Mister Car Wash footing quote and see how this morning's bid went. Happy to adjust anything if the GC comes back with questions."
+  },
+  {
+   "title": "WATCHMAN: Estimate follow-up \u2014 Scott Elliot",
+   "contact": "Scott Elliot",
    "owner": "Nehemiah",
    "due": "2026-10-16T22:00:00.000Z",
    "overdue": false,
-   "notes": "Next action: Lisa and Todd said they want to go ahead with the slab poured as a pickleball court (5 in thick, steel + rebar, no control joints). Send the corrected final estimate for signature and get their tile pick from the Tempe showroom visit (Oct 15). Opp is still in Appointment Set at $5k placeholder \u2014 update stage/value.\nContext: Call Oct 14 (Nehemiah, 4.7 min): strong buying signal.",
-   "draft": "Hi Lisa, Nehemiah with Cornerstone. Here is the final estimate for the pickleball-court slab (5 inches thick with steel and rebar), ready for your signature. Send over a photo of any tiles you liked at the showroom and I will add them in."
+   "notes": "Next action: Estimate Sent 31 days ($16,200) with no contact-linked open follow-up (orphan UI task EHGIFrJb0mZk04CPznTX still needs UI completion). Call/text for a decision; if cold, mark Lost.",
+   "draft": "Hi Scott, Nehemiah with Cornerstone. Checking in on the estimate we sent \u2014 any questions, or are you ready to get on the schedule?"
+  },
+  {
+   "title": "WATCHMAN: Callback after VM \u2014 Hailee King (Angi lead)",
+   "contact": "Hailee King",
+   "owner": "Tym M",
+   "due": "2026-10-16T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: VM left Oct 15 (Angi's List lead, New Lead $5k placeholder). Call again today; if no answer text and try Mon. Qualify project and book visit.",
+   "draft": "Hi Hailee, this is Tim with Cornerstone Build Company. I left a voicemail about the Angi project request. When is a good time for a quick call so we can learn what you need and set up a free site visit?"
+  },
+  {
+   "title": "WATCHMAN: Callback after VM \u2014 martinez sr frank b. (driveway)",
+   "contact": "Martinez Sr Frank B.",
+   "owner": "Joshua Z",
+   "due": "2026-10-16T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Joshua left a VM Oct 14 night on this Meta driveway/parking lead (auto-qualified Estimate). Call again today, qualify, set value, keep in Contacted/Working. Assigned to Joshua.",
+   "draft": "Hi Frank, Joshua with Cornerstone Build Company. Following up on the driveway/parking area request I called about. Happy to walk through options and set up a free site visit whenever works for you."
   },
   {
    "title": "WATCHMAN: Estimate follow-up \u2014 Raymond Nielsen",
@@ -650,15 +520,6 @@
    "draft": "Hi Julio, Tim with Cornerstone. Just checking in. Whenever you get a chance to snap a few photos of that crack, text them here and I will let you know right away whether it is worth addressing before the sale."
   },
   {
-   "title": "WATCHMAN: Estimate follow-up \u2014 Larry Brown",
-   "contact": "Larry Brown",
-   "owner": "Tym M",
-   "due": "2026-10-16T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Estimate Sent/Follow Up for 8 days ($5,000) with no open follow-up task. Call or text to confirm they received the estimate, answer questions, and get a decision date. If they went another direction, mark the opp Lost with a reason.",
-   "draft": "Hi Larry, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
-  },
-  {
    "title": "WATCHMAN: Estimate follow-up \u2014 Clarence J Byers",
    "contact": "Clarence J Byers",
    "owner": "Tym M",
@@ -666,6 +527,15 @@
    "overdue": false,
    "notes": "Next action: Estimate Sent/Follow Up for 8 days ($8,674) with no open follow-up task. Call or text to confirm they received the estimate, answer questions, and get a decision date. If they went another direction, mark the opp Lost with a reason.",
    "draft": "Hi Clarence, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
+  },
+  {
+   "title": "WATCHMAN: Estimate follow-up \u2014 Paul Crump",
+   "contact": "Paul Crump",
+   "owner": "Tym M",
+   "due": "2026-10-16T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Estimate Sent/Follow Up ($5,000) with no open follow-up task. Call or text to confirm they received the estimate, answer questions, and get a decision date. If they went another direction, mark Lost with a reason.",
+   "draft": "Hi Paul, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
   },
   {
    "title": "WATCHMAN: Estimate follow-up \u2014 Jorge Villasaez",
@@ -677,15 +547,6 @@
    "draft": "Hi Jorge, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
   },
   {
-   "title": "WATCHMAN: Estimate follow-up \u2014 Deshawn Crockett",
-   "contact": "Deshawn Crockett",
-   "owner": "Tym M",
-   "due": "2026-10-16T22:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action: Estimate Sent/Follow Up for 8 days ($6,903) with no open follow-up task. Call or text to confirm they received the estimate, answer questions, and get a decision date. If they went another direction, mark the opp Lost with a reason.",
-   "draft": "Hi Deshawn, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
-  },
-  {
    "title": "Follow up \u2014 schedule carport site visit (Ruth Meyerpeter)",
    "contact": "Ruth Meyerpeter",
    "owner": "Nehemiah",
@@ -693,6 +554,15 @@
    "overdue": false,
    "notes": "Next action: Call/text Ruth to confirm she is back from Colorado and book the carport/city-clearance site visit. Opp is Long-Term Nurture ($5k placeholder).\nContext: She wanted a carport (needs city clearance); we said we handle that; she asked to schedule ~1 month after her CO trip. Outbound already asked about meeting this week \u2014 no reply yet.",
    "draft": "Hi Ruth, this is Nehemiah with Cornerstone Build Company. Hope the new grandchild visit went well! Ready to schedule that on-site look at the carport / city clearance when it works for you? I have openings Thu\u2013Fri this week or early next week \u2014 what day is best?\nComplete when: Appointment set OR she gives a later date/close reason; update notes and stage if she is ready to move (Appointment Set)."
+  },
+  {
+   "title": "WATCHMAN: Callback after VM \u2014 Jinni Paguaga (driveway/parking)",
+   "contact": "Jinni Paguaga",
+   "owner": "Joshua Z",
+   "due": "2026-10-16T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Joshua left a VM Oct 15 (~5:27pm AZ) on her Meta lead for driveway or parking/outdoor living. Call again today; qualify scope, size, timeline; book a site visit. Note: lead auto-tagged Disqualified-Budget / Under $10k \u2014 confirm budget before investing a visit. Opp is New Lead $0 \u2014 set a value once scoped or mark Lost if budget is real DQ.",
+   "draft": "Hi Jinni, Joshua with Cornerstone Build Company. I left a voicemail yesterday about the driveway/parking area request from our planner. Do you have 10 minutes today so I can learn what you need and see if we are a fit?"
   },
   {
    "title": "WATCHMAN: Estimate follow-up \u2014 Tim Maze",
@@ -704,6 +574,33 @@
    "draft": "Hi Tim, this is Tim with Cornerstone Build Company. Just checking in on the concrete estimate we sent over. Do you have any questions I can answer, or would you like to get on the schedule?"
   },
   {
+   "title": "Follow Up",
+   "contact": "Roger D. Miller",
+   "owner": "Nehemiah",
+   "due": "2026-10-19T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Findout measurments\nNeed Address & Email",
+   "draft": ""
+  },
+  {
+   "title": "Follow up \u2014 confirm estimate receipt (Marvin Lambert)",
+   "contact": "Marvin Lambert",
+   "owner": "Nehemiah",
+   "due": "2026-10-19T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Nehemiah left a VM Thu Oct 15 asking if Marvin wants to move forward or pass. Call/text Monday; if no response by Tue mark Lost.",
+   "draft": "Hi Marvin, Nehemiah with Cornerstone. Just circling back on the estimate \u2014 are you still looking to move forward, or should we close this out for now?"
+  },
+  {
+   "title": "Follow Up",
+   "contact": "Roger Spears",
+   "owner": "Nehemiah",
+   "due": "2026-10-19T22:00:00.000Z",
+   "overdue": false,
+   "notes": "client asked for two week follow up, follow up in 1",
+   "draft": ""
+  },
+  {
    "title": "Follow up Monday October 19th (Tony asked Mon/Tue)",
    "contact": "Tony Mackelprang",
    "owner": "Nehemiah",
@@ -713,10 +610,55 @@
    "draft": "Hi Tony, Nehemiah with Cornerstone. Following up like we planned. How did Friday's meeting go, and is there anything you want me to clarify on our estimate so you can compare apples to apples?"
   },
   {
+   "title": "Follow up \u2014 confirm estimate receipt (Michael Somerton)",
+   "contact": "Michael Somerton",
+   "owner": "Nehemiah",
+   "due": "2026-10-19T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Confirm he received the proposal sent to mjsomerton@hotmail.com and capture questions / next decision date. Stage: Estimate Sent/Follow Up. He was lukewarm on price but agreed to end-of-week check-ins.",
+   "draft": "Hi Michael, this is Nehemiah with Cornerstone Build Company. Just confirming you received the estimate we sent to mjsomerton@hotmail.com \u2014 any questions on scope, timing, or pricing after you looked it over?\nComplete when: Receipt confirmed, response documented, next exact decision date or close reason set. (Duplicate WATCHMAN receipt task already closed.)"
+  },
+  {
+   "title": "Follow up \u2014 8x10 pad quote response (Byron Chancellor)",
+   "contact": "Byron Chancellor",
+   "owner": "Nehemiah",
+   "due": "2026-10-19T22:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: Follow up on the ~$3,700 8x10 pad quote (Estimate Sent/Follow Up, $5k placeholder). Last outbound explained Google Earth access / side-gate and offered late this week or next week.",
+   "draft": "Hey Byron, just checking in on the 8x10 pad around $3,700. Does that range work, and would you rather lock a day late this week or next week?\nComplete when: Yes/no on price, schedule set, or documented close/nurture reason."
+  },
+  {
+   "title": "Follow Up",
+   "contact": "Jim Evridge",
+   "owner": "Joshua Z",
+   "due": "2026-10-30T15:00:00.000Z",
+   "overdue": false,
+   "notes": "See if he's back from Alaska yet",
+   "draft": ""
+  },
+  {
+   "title": "Follow Up",
+   "contact": "Lauren Goode",
+   "owner": "Tym M",
+   "due": "2026-10-30T15:00:00.000Z",
+   "overdue": false,
+   "notes": "See if nows the right time",
+   "draft": ""
+  },
+  {
    "title": "Call rick meek november 2nd",
    "contact": "Rick Meek",
    "owner": "Nehemiah",
    "due": "2026-11-02T22:00:00.000Z",
+   "overdue": false,
+   "notes": "",
+   "draft": ""
+  },
+  {
+   "title": "Follow Up",
+   "contact": "Mozelle Henry",
+   "owner": "Nehemiah",
+   "due": "2026-12-01T15:00:00.000Z",
    "overdue": false,
    "notes": "",
    "draft": ""
@@ -749,43 +691,37 @@
    "draft": ""
   }
  ],
- "overdue": 1,
+ "overdue": 0,
  "playbook": {
   "Nehemiah": [
-   "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 21d no stage move",
-   "Scott Elliot (Estimate Sent/Follow Up, $16,200): Estimate Sent \u00b7 30d no stage move",
+   "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 22d no stage move",
+   "Scott Elliot (Estimate Sent/Follow Up, $16,200): Estimate Sent \u00b7 31d no stage move",
    "Quinton C Kubicek (Lost, $5,000): In Lost stage but status open",
    "Lucia Garnica (Long-Term Nurture, $7,400): no open task \u2014 set next step",
-   "Nathan Price (Contacted/Working on It, $5,000): no open task \u2014 set next step",
    "E.J. Martin (Contacted/Working on It, $5,000): no open task \u2014 set next step"
   ],
   "Joshua Z": [
-   "Kyle Ray Sauls (Estimate Sent/Follow Up, $22,000): Estimate Sent \u00b7 30d no stage move",
-   "Chris Rodgers (Estimate Sent/Follow Up, $8,531): Estimate Sent \u00b7 15d no stage move",
-   "Todd Canale (Long-Term Nurture, $110,000): no open task \u2014 set next step",
-   "Jim Evridge (Contacted/Working on It, $8,000): no open task \u2014 set next step",
-   "Tim Cox \u2014 Foundation or concrete for a structure (Appointment Set, $0): no open task \u2014 set next step"
+   "Kyle Ray Sauls (Estimate Sent/Follow Up, $22,000): Estimate Sent \u00b7 31d no stage move",
+   "Chris Rodgers (Estimate Sent/Follow Up, $8,531): Estimate Sent \u00b7 16d no stage move",
+   "Todd Canale (Long-Term Nurture, $110,000): no open task \u2014 set next step"
   ],
   "Tym M": [
-   "Tim Maze (Estimate Sent/Follow Up, $21,000): Estimate Sent \u00b7 22d no stage move",
-   "Clarence J Byers (Estimate Sent/Follow Up, $8,674): Estimate Sent \u00b7 8d no stage move",
-   "Deshawn Crockett (Estimate Sent/Follow Up, $6,903): Estimate Sent \u00b7 8d no stage move",
-   "Raymond Nielsen (Estimate Sent/Follow Up, $6,100): Estimate Sent \u00b7 8d no stage move",
-   "Larry Brown (Estimate Sent/Follow Up, $5,000): Estimate Sent \u00b7 8d no stage move",
-   "Jorge Villasaez (Estimate Sent/Follow Up, $4,200): Estimate Sent \u00b7 22d no stage move"
-  ],
-  "Unassigned": [
-   "martinez sr frank b. \u2014 Driveway or parking area (New Lead, $0): no open task \u2014 set next step"
+   "Tim Maze (Estimate Sent/Follow Up, $21,000): Estimate Sent \u00b7 23d no stage move",
+   "Clarence J Byers (Estimate Sent/Follow Up, $8,674): Estimate Sent \u00b7 9d no stage move",
+   "Raymond Nielsen (Estimate Sent/Follow Up, $6,100): Estimate Sent \u00b7 9d no stage move",
+   "Hailee King (New Lead, $5,000): New Lead \u00b7 2d no stage move",
+   "Kathy Robertson (Appointment Set, $5,000): Appointment Set \u00b7 7d no stage move",
+   "Jorge Villasaez (Estimate Sent/Follow Up, $4,200): Estimate Sent \u00b7 23d no stage move"
   ]
  },
  "calls": [
   {
-   "contact": "Jose Montelongo",
-   "owner": "Tym M",
-   "date": "2026-10-13",
-   "duration": "7.4 min",
-   "score": 88,
-   "notes": "Proactively offered a tech visit, booked Thu Oct 15 12\u20132pm, explained the $2,500 minimum, promised a 30-min courtesy text, invited photos and picked up an electrical add-on. Opp still sits in Contacted; move it to Appointment Set."
+   "contact": "Nicholas Hernandez",
+   "owner": "Nehemiah",
+   "date": "2026-10-15",
+   "duration": "2.3 min",
+   "score": 78,
+   "notes": "Website form looked like a concrete lead; he was a HydroVac job seeker. Recovered cleanly, pivoted to labor hiring, asked about concrete/paver experience, and committed to text the hiring email. CRM: mark Lost (not a customer) and route resume to hiring \u2014 done this morning."
   },
   {
    "contact": "Lisa Higgins",
@@ -793,7 +729,7 @@
    "date": "2026-10-14",
    "duration": "4.7 min",
    "score": 82,
-   "notes": "Customer said they want to go ahead. Clear answers on the 5-inch pickleball spec, owned the quote mix-up, good tile guidance. Missed asking for the signature date; send the final estimate now."
+   "notes": "Customer said they want to go ahead. Clear answers on the 5-inch pickleball spec, owned the quote mix-up, good tile guidance. Outcome: WON at $35k \u2014 signature task closed this morning."
   },
   {
    "contact": "Tony Mackelprang",
@@ -801,23 +737,7 @@
    "date": "2026-10-14",
    "duration": "1.8 min",
    "score": 80,
-   "notes": "Clean, promised follow-up; learned competitor meets him Friday and locked a Monday call. Could have asked what he will compare on (price, timeline, scope)."
-  },
-  {
-   "contact": "Janae Jones (Arizona Sign Co / Don)",
-   "owner": "Joshua Z",
-   "date": "2026-10-13",
-   "duration": "2.0 min",
-   "score": 78,
-   "notes": "Got scope (6 monument footings + entry footing with pad, Mister Car Wash, Tucson), timing and plans by email; committed to a quote by EOD Thu. Didn't confirm site address, quantities or decision date."
-  },
-  {
-   "contact": "Julio Cantabrana",
-   "owner": "Tym M",
-   "date": "2026-10-13",
-   "duration": "3.6 min",
-   "score": 70,
-   "notes": "Good re-engagement and reassurance on the foundation crack; asked for photos. No firm next step or time \u2014 follow up Friday if photos haven't come in."
+   "notes": "Clean, promised follow-up; learned competitor meets him Friday and locked a Monday call. Follow-up already on Mon Oct 19."
   },
   {
    "contact": "Gary Bovard",
@@ -825,58 +745,66 @@
    "date": "2026-10-14",
    "duration": "8.6 min",
    "score": 68,
-   "notes": "Clear pricing with permit explanation ($7,500\u20137,900 slab; $8,900\u20139,400 full concrete) and good ROC-license point. But he called the competitor's $7,000 all-in bid 'a pretty good price', never set a follow-up date, and used profanity. Reinforce value and book the next touch."
+   "notes": "Clear pricing with permit explanation and good ROC-license point. Competitor ~$7k all-in; no firm follow-up date. CRM: moved to Estimate Sent; WATCHMAN competitor follow-up due today 3pm."
   },
   {
-   "contact": "Teresa Capone Cafiero",
-   "owner": "Nehemiah's line",
+   "contact": "Janae Jones (Arizona Sign Co / Don)",
+   "owner": "Joshua Z",
    "date": "2026-10-13",
-   "duration": "2.8 min",
-   "score": 55,
-   "notes": "Call dropped mid-pitch. Steering her from concrete back to tile felt pushy and she said so. Opp was marked Lost 15 minutes later; worth one call-back since she described a real drainage problem."
+   "duration": "2.0 min",
+   "score": 78,
+   "notes": "Got Mister Car Wash Tucson footing scope and committed to a quote by EOD Thu. Quote task completed; new task today to confirm Friday-morning bid outcome."
+  },
+  {
+   "contact": "Julio Cantabrana",
+   "owner": "Tym M",
+   "date": "2026-10-13",
+   "duration": "3.6 min",
+   "score": 70,
+   "notes": "Good re-engagement on foundation crack; asked for photos. WATCHMAN photo-check still due today 3pm."
   }
  ],
  "calls_status": "",
  "risks": [
   {
    "type": "Stale",
-   "text": "Clarence J Byers \u2014 Estimate Sent \u00b7 8d no stage move, $8,674 (Tym M)"
+   "text": "Hailee King \u2014 New Lead \u00b7 2d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Larry Brown \u2014 Estimate Sent \u00b7 8d no stage move, $5,000 (Tym M)"
+   "text": "Kathy Robertson \u2014 Appointment Set \u00b7 7d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Chris Rodgers \u2014 Estimate Sent \u00b7 15d no stage move, $8,531 (Joshua Z)"
+   "text": "Clarence J Byers \u2014 Estimate Sent \u00b7 9d no stage move, $8,674 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Raymond Nielsen \u2014 Estimate Sent \u00b7 8d no stage move, $6,100 (Tym M)"
+   "text": "Chris Rodgers \u2014 Estimate Sent \u00b7 16d no stage move, $8,531 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Deshawn Crockett \u2014 Estimate Sent \u00b7 8d no stage move, $6,903 (Tym M)"
+   "text": "Raymond Nielsen \u2014 Estimate Sent \u00b7 9d no stage move, $6,100 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Jorge Villasaez \u2014 Estimate Sent \u00b7 22d no stage move, $4,200 (Tym M)"
+   "text": "Jorge Villasaez \u2014 Estimate Sent \u00b7 23d no stage move, $4,200 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Tony Mackelprang \u2014 Estimate Sent \u00b7 21d no stage move, $23,226 (Nehemiah)"
+   "text": "Tony Mackelprang \u2014 Estimate Sent \u00b7 22d no stage move, $23,226 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Tim Maze \u2014 Estimate Sent \u00b7 22d no stage move, $21,000 (Tym M)"
+   "text": "Tim Maze \u2014 Estimate Sent \u00b7 23d no stage move, $21,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Scott Elliot \u2014 Estimate Sent \u00b7 30d no stage move, $16,200 (Nehemiah)"
+   "text": "Scott Elliot \u2014 Estimate Sent \u00b7 31d no stage move, $16,200 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Kyle Ray Sauls \u2014 Estimate Sent \u00b7 30d no stage move, $22,000 (Joshua Z)"
+   "text": "Kyle Ray Sauls \u2014 Estimate Sent \u00b7 31d no stage move, $22,000 (Joshua Z)"
   },
   {
    "type": "Misfiled",
