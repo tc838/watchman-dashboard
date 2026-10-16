@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-10-16T07:13-07:00",
+ "generatedAt": "2026-10-16T07:14-07:00",
  "kpi": {
-  "open_count": 39,
-  "open_value": 368331.0,
+  "open_count": 38,
+  "open_value": 363331.0,
   "active_count": 38,
   "active_value": 363331.0,
   "won_count": 26,
   "won_value": 238870.7,
-  "lost_count": 269,
-  "lost_value": 2174638.0
+  "lost_count": 270,
+  "lost_value": 2179638.0
  },
  "by_stage": {
   "New Lead": {
@@ -47,8 +47,8 @@
    "color": "#16A34A"
   },
   "Lost": {
-   "count": 1,
-   "value": 5000.0,
+   "count": 0,
+   "value": 0.0,
    "color": "#DC2626"
   }
  },
@@ -62,8 +62,8 @@
    "value": 124973.5
   },
   "Nehemiah": {
-   "count": 11,
-   "value": 94826.5
+   "count": 10,
+   "value": 89826.5
   }
  },
  "pipeline": [
@@ -408,15 +408,6 @@
    "days": 0,
    "tasks": 1,
    "flag": null
-  },
-  {
-   "name": "Quinton C Kubicek",
-   "value": 5000.0,
-   "stage": "Lost",
-   "owner": "Nehemiah",
-   "days": 48,
-   "tasks": 0,
-   "flag": "In Lost stage but status open"
   }
  ],
  "tasks": [
@@ -696,7 +687,6 @@
   "Nehemiah": [
    "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 22d no stage move",
    "Scott Elliot (Estimate Sent/Follow Up, $16,200): Estimate Sent \u00b7 31d no stage move",
-   "Quinton C Kubicek (Lost, $5,000): In Lost stage but status open",
    "Lucia Garnica (Long-Term Nurture, $7,400): no open task \u2014 set next step",
    "E.J. Martin (Contacted/Working on It, $5,000): no open task \u2014 set next step"
   ],
@@ -805,10 +795,6 @@
   {
    "type": "Stale",
    "text": "Kyle Ray Sauls \u2014 Estimate Sent \u00b7 31d no stage move, $22,000 (Joshua Z)"
-  },
-  {
-   "type": "Misfiled",
-   "text": "Quinton C Kubicek sits in Lost stage but status is open (Nehemiah)"
   }
  ]
 }
