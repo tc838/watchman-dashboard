@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T07:23-07:00",
+ "generatedAt": "2026-10-19T07:25-07:00",
  "kpi": {
   "open_count": 38,
   "open_value": 342331.0,
@@ -461,8 +461,8 @@
    "owner": "Tym M",
    "due": "2026-10-19T17:00:00.000Z",
    "overdue": false,
-   "notes": "Next action: New builder lead from Fri 10/16 IVR + Tym call: 4,500 sq ft single-family new build at 4450 N 39th St (39th & Campbell, Arcadia). Footings, stems, slab; no structural steel; permits expected within ~1 week; wants a quote ASAP. Taylor emailed plans to TC@ZREIGroup.com Fri ~12:03 PM AZ (first try bounced off the old cornerstone address). Confirm plans reached the estimator, ask target pour date + bid deadline, and send the proposal. NOTE: no GHL opportunity exists for this contact yet \u2014 create one (Residential or Commercial Concrete Sales) so it shows in the pipeline.\nContext: Call ",
-   "draft": "Hi Taylor, Tim with Cornerstone. Got your plans for the 39th & Campbell build \u2014 our estimator is working up the footing/stem/slab proposal now. Quick check: when do you need bids in, and what's your target pour date once permits are out?\nDraft only \u2014 do not auto-send."
+   "notes": "Next action: BID DUE FRI 10/23/26. New builder lead from Fri 10/16 IVR + Tym call: 4,500 sq ft single-family new build at 4450 N 39th St (39th & Campbell, Arcadia). Footings, stems, slab; no structural steel; permits expected within ~1 week. Taylor emailed APPROVED PLANS (Dropbox link, email '39th St Project') to TC@ZREIGroup.com Fri 10/16 12:03 PM AZ with 'PLEASE SUBMIT BID BY 10/23/26'. Get the plans to the estimator today, confirm target pour date, and send the proposal before Fri. NOTE: no GHL opportunity exists for this contact yet \u2014 create one so it shows in the pipeline.\nContext: Call O",
+   "draft": "Hi Taylor, Tim with Cornerstone. Got the approved plans for 4450 N 39th St \u2014 our estimator is working up the footing/stem/slab bid now and we'll have it to you before your 10/23 deadline. What's your target pour date once permits are out?\nDraft only \u2014 do not auto-send."
   },
   {
    "title": "WATCHMAN: First touch \u2014 Joe Fong (Meta planner, foundation/outdoor living)",
@@ -748,7 +748,7 @@
    "date": "2026-10-16",
    "duration": "2.0 min",
    "score": 74,
-   "notes": "Inbound builder lead: 4,500 sf single-family new build at 39th & Campbell \u2014 footings, stems, slab. Called back ~20 min after the IVR intake, got the timeline (ASAP, permits ~1 week), got plans sent and confirmed best number; fixed the bounced email fast by text. Missed: bid due date, other bidders, target pour date, and whether Sonora West has more builds coming. CRM: no opportunity exists yet \u2014 create one; WATCHMAN proposal task due today 10 AM."
+   "notes": "Inbound builder lead: 4,500 sf single-family new build at 39th & Campbell \u2014 footings, stems, slab. Called back ~20 min after the IVR intake, got the timeline (ASAP, permits ~1 week), got plans sent and confirmed best number; fixed the bounced email fast by text. Missed on the call: bid due date (his email says BID DUE 10/23), other bidders, target pour date, and whether Sonora West has more builds coming. CRM: no opportunity exists yet \u2014 create one; WATCHMAN proposal task due today 10 AM; approved plans are in the TC@zreigroup.com inbox."
   },
   {
    "contact": "Nancy Curd",
