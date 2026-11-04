@@ -1,19 +1,19 @@
 {
- "generatedAt": "2026-11-03T08:26-07:00",
+ "generatedAt": "2026-11-04T08:27-07:00",
  "kpi": {
-  "open_count": 39,
-  "open_value": 482550.0,
-  "active_count": 39,
-  "active_value": 482550.0,
+  "open_count": 42,
+  "open_value": 510410.0,
+  "active_count": 42,
+  "active_value": 510410.0,
   "won_count": 27,
   "won_value": 273540.7,
-  "lost_count": 310,
-  "lost_value": 2638211.5
+  "lost_count": 313,
+  "lost_value": 2653211.5
  },
  "by_stage": {
   "New Lead": {
-   "count": 8,
-   "value": 40000.0,
+   "count": 9,
+   "value": 45000.0,
    "color": "#DC2626"
   },
   "Contacted/Working on It": {
@@ -22,8 +22,8 @@
    "color": "#EA580C"
   },
   "Appointment Set": {
-   "count": 3,
-   "value": 15000.0,
+   "count": 2,
+   "value": 10000.0,
    "color": "#CA8A04"
   },
   "Needs Proposal": {
@@ -32,8 +32,8 @@
    "color": "#64748B"
   },
   "Estimate Sent/Follow Up": {
-   "count": 9,
-   "value": 312010.0,
+   "count": 12,
+   "value": 339870.0,
    "color": "#4F46E5"
   },
   "Long-Term Nurture": {
@@ -54,16 +54,16 @@
  },
  "owners": {
   "Tym M": {
-   "count": 17,
-   "value": 85000.0
+   "count": 19,
+   "value": 95000.0
+  },
+  "Nehemiah": {
+   "count": 11,
+   "value": 117000.0
   },
   "Joshua Z": {
    "count": 11,
-   "value": 278070.0
-  },
-  "Nehemiah": {
-   "count": 10,
-   "value": 106140.0
+   "value": 285070.0
   },
   "TC": {
    "count": 1,
@@ -77,9 +77,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
-   "flag": "New Lead \u00b7 7d no stage move"
+   "flag": "New Lead \u00b7 8d no stage move"
   },
   {
    "id": "6ANN0AeHZbo0KaDQEFgX",
@@ -87,9 +87,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
+   "flag": "New Lead \u00b7 5d no stage move"
   },
   {
    "id": "qcqSt4zScdzTLKL78tg1",
@@ -97,9 +97,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 0,
-   "flag": "New Lead \u00b7 4d no stage move"
+   "flag": "New Lead \u00b7 5d no stage move"
   },
   {
    "id": "HhTyGXPaNWra6v4YusSV",
@@ -107,29 +107,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 3,
+   "days": 4,
    "tasks": 0,
-   "flag": "New Lead \u00b7 3d no stage move"
-  },
-  {
-   "id": "Rq1b4ogSNshv3OknFRrq",
-   "name": "Anita Cannon",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 1,
-   "tasks": 1,
-   "flag": null
-  },
-  {
-   "id": "GTKSSDJpS5yCxM0jUeaG",
-   "name": "Angela Marsh",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 0,
-   "tasks": 0,
-   "flag": null
+   "flag": "New Lead \u00b7 4d no stage move"
   },
   {
    "id": "Qqfs1yLUsBLqbyAcC1ZX",
@@ -137,13 +117,43 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 0,
+   "days": 1,
    "tasks": 0,
    "flag": null
   },
   {
    "id": "Hb6o09G4rl1EMczuy0Xc",
    "name": "Fernando Antunez",
+   "value": 5000.0,
+   "stage": "New Lead",
+   "owner": "Tym M",
+   "days": 1,
+   "tasks": 0,
+   "flag": null
+  },
+  {
+   "id": "uqj3NiZ8x55mzX6QZEG6",
+   "name": "Walter Harris",
+   "value": 5000.0,
+   "stage": "New Lead",
+   "owner": "Tym M",
+   "days": 0,
+   "tasks": 0,
+   "flag": null
+  },
+  {
+   "id": "djMHHCtk9cqoZjeLZLfB",
+   "name": "Sue Dieter",
+   "value": 5000.0,
+   "stage": "New Lead",
+   "owner": "Tym M",
+   "days": 0,
+   "tasks": 0,
+   "flag": null
+  },
+  {
+   "id": "aPlh7uQtqIV00en9LaTa",
+   "name": "David Boizelle",
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
@@ -157,9 +167,9 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 27,
+   "days": 28,
    "tasks": 1,
-   "flag": "Contacted \u00b7 27d no stage move"
+   "flag": "Contacted \u00b7 28d no stage move"
   },
   {
    "id": "4MqYxFOtyjcHgWMi3kax",
@@ -167,9 +177,9 @@
    "value": 8000.0,
    "stage": "Contacted/Working on It",
    "owner": "Joshua Z",
-   "days": 27,
+   "days": 28,
    "tasks": 1,
-   "flag": "Contacted \u00b7 27d no stage move"
+   "flag": "Contacted \u00b7 28d no stage move"
   },
   {
    "id": "qEOrCrcgQ9YPT4q8REZF",
@@ -177,19 +187,9 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 26,
+   "days": 27,
    "tasks": 1,
-   "flag": "Contacted \u00b7 26d no stage move"
-  },
-  {
-   "id": "APoJP8w6phZw2uzEohA3",
-   "name": "E.J. Martin",
-   "value": 5000.0,
-   "stage": "Contacted/Working on It",
-   "owner": "Nehemiah",
-   "days": 21,
-   "tasks": 1,
-   "flag": "Contacted \u00b7 21d no stage move"
+   "flag": "Contacted \u00b7 27d no stage move"
   },
   {
    "id": "p85t3oUTOC5u5C5a56oX",
@@ -197,9 +197,9 @@
    "value": 0.0,
    "stage": "Contacted/Working on It",
    "owner": "Joshua Z",
-   "days": 18,
+   "days": 19,
    "tasks": 0,
-   "flag": "Contacted \u00b7 18d no stage move"
+   "flag": "Contacted \u00b7 19d no stage move"
   },
   {
    "id": "RUrP2Q3EDJcJHfqUD6F6",
@@ -207,7 +207,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 5,
+   "days": 6,
    "tasks": 0,
    "flag": null
   },
@@ -217,7 +217,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
    "flag": null
   },
@@ -227,7 +227,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
    "flag": null
   },
@@ -237,7 +237,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 0,
    "flag": null
   },
@@ -247,7 +247,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 3,
+   "days": 4,
    "tasks": 0,
    "flag": null
   },
@@ -257,18 +257,18 @@
    "value": 0.0,
    "stage": "Contacted/Working on It",
    "owner": "Joshua Z",
-   "days": 0,
+   "days": 1,
    "tasks": 0,
    "flag": null
   },
   {
-   "id": "zZyrxXtAyYMO3d1MgH81",
-   "name": "David White",
+   "id": "X7pBjD9shh93cmmaIgnR",
+   "name": "Darlene Nathan",
    "value": 5000.0,
-   "stage": "Appointment Set",
-   "owner": "Nehemiah",
-   "days": 3,
-   "tasks": 2,
+   "stage": "Contacted/Working on It",
+   "owner": "Tym M",
+   "days": 0,
+   "tasks": 0,
    "flag": null
   },
   {
@@ -276,8 +276,8 @@
    "name": "Nancy Lathrop",
    "value": 5000.0,
    "stage": "Appointment Set",
-   "owner": "Joshua Z",
-   "days": 1,
+   "owner": "Nehemiah",
+   "days": 2,
    "tasks": 0,
    "flag": null
   },
@@ -287,7 +287,7 @@
    "value": 5000.0,
    "stage": "Appointment Set",
    "owner": "Joshua Z",
-   "days": 0,
+   "days": 1,
    "tasks": 1,
    "flag": null
   },
@@ -297,9 +297,9 @@
    "value": 23226.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 40,
+   "days": 41,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 40d no stage move"
+   "flag": "Estimate Sent \u00b7 41d no stage move"
   },
   {
    "id": "sqgczlKa2CfS0KG7DouK",
@@ -307,9 +307,9 @@
    "value": 11333.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 24,
+   "days": 25,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 24d no stage move"
+   "flag": "Estimate Sent \u00b7 25d no stage move"
   },
   {
    "id": "XqBovqbKjmVpmaT6pg6v",
@@ -317,9 +317,9 @@
    "value": 10990.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 18,
+   "days": 19,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 18d no stage move"
+   "flag": "Estimate Sent \u00b7 19d no stage move"
   },
   {
    "id": "NjQQMXVhELwvVPjhF5b9",
@@ -327,9 +327,9 @@
    "value": 28000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 7d no stage move"
+   "flag": "Estimate Sent \u00b7 8d no stage move"
   },
   {
    "id": "ASKSPramnWcZQ13nCi5H",
@@ -337,7 +337,7 @@
    "value": 160000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 5,
+   "days": 6,
    "tasks": 2,
    "flag": null
   },
@@ -347,7 +347,7 @@
    "value": 38000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
    "flag": null
   },
@@ -357,7 +357,7 @@
    "value": 6880.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 4,
+   "days": 5,
    "tasks": 4,
    "flag": null
   },
@@ -367,7 +367,7 @@
    "value": 28580.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 4,
+   "days": 5,
    "tasks": 3,
    "flag": null
   },
@@ -377,7 +377,37 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 3,
+   "days": 4,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "id": "GTKSSDJpS5yCxM0jUeaG",
+   "name": "Angela Marsh",
+   "value": 10860.0,
+   "stage": "Estimate Sent/Follow Up",
+   "owner": "Nehemiah",
+   "days": 0,
+   "tasks": 4,
+   "flag": null
+  },
+  {
+   "id": "zZyrxXtAyYMO3d1MgH81",
+   "name": "David White",
+   "value": 12000.0,
+   "stage": "Estimate Sent/Follow Up",
+   "owner": "Joshua Z",
+   "days": 0,
+   "tasks": 6,
+   "flag": null
+  },
+  {
+   "id": "APoJP8w6phZw2uzEohA3",
+   "name": "E.J. Martin",
+   "value": 5000.0,
+   "stage": "Estimate Sent/Follow Up",
+   "owner": "Nehemiah",
+   "days": 0,
    "tasks": 1,
    "flag": null
   },
@@ -387,7 +417,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 61,
+   "days": 62,
    "tasks": 1,
    "flag": null
   },
@@ -397,7 +427,7 @@
    "value": 13000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 61,
+   "days": 62,
    "tasks": 1,
    "flag": null
   },
@@ -407,7 +437,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Tym M",
-   "days": 38,
+   "days": 39,
    "tasks": 0,
    "flag": null
   },
@@ -417,7 +447,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 21,
+   "days": 22,
    "tasks": 1,
    "flag": null
   },
@@ -427,7 +457,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 18,
+   "days": 19,
    "tasks": 1,
    "flag": null
   },
@@ -437,8 +467,8 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Tym M",
-   "days": 13,
-   "tasks": 0,
+   "days": 14,
+   "tasks": 1,
    "flag": null
   },
   {
@@ -447,7 +477,7 @@
    "value": 13340.0,
    "stage": "Long-Term Nurture",
    "owner": "TC",
-   "days": 0,
+   "days": 1,
    "tasks": 1,
    "flag": null
   },
@@ -457,7 +487,7 @@
    "value": 16200.0,
    "stage": "Long-Term Nurture",
    "owner": "Joshua Z",
-   "days": 0,
+   "days": 1,
    "tasks": 1,
    "flag": null
   }
@@ -473,24 +503,6 @@
    "draft": ""
   },
   {
-   "title": "WATCHMAN: Second touch after VM \u2014 Melissia Knowles (new Angi lead, driveway)",
-   "contact": "Melissia Knowles",
-   "owner": "Tym M",
-   "due": "2026-10-30T17:00:00.000Z",
-   "overdue": true,
-   "notes": "Next action: New lead Mon 12:48 PM. Welcome texts sent; you left a VM Mon 12:49 PM. No reply yet. Call again this morning, then text if no answer. Qualify size, budget and timing and book a visit.",
-   "draft": "Hi Melissia, this is Tim with Cornerstone Build Company. Following up on your concrete driveway request. When's a good time for a quick call? Feel free to text a few photos here too.\nDraft only, do not auto-send."
-  },
-  {
-   "title": "WATCHMAN: Set visit time by text \u2014 Robert Grunstein (new Angi lead, driveway)",
-   "contact": "Robert M Grunstein",
-   "owner": "Tym M",
-   "due": "2026-10-30T17:00:00.000Z",
-   "overdue": true,
-   "notes": "Next action: New lead Mon 10:05 AM. Robert asked to text, not call. Joshua offered a stop by Mon 3 to 5 PM; no reply since. Text once today to offer two visit windows and ask for a photo of the driveway. Once a time is set, book it on the Site Visit calendar of whoever runs it.",
-   "draft": "Hi Robert, this is Tim with Cornerstone Build Company. Following up on your driveway. Would tomorrow morning or Thursday afternoon work for a quick look? A photo of the area here would help too.\nDraft only, do not auto-send."
-  },
-  {
    "title": "Joshua: reach out & touch base with E.J. Martin (40x60 steel bldg + slab)",
    "contact": "E.J. Martin",
    "owner": "Joshua Z",
@@ -498,15 +510,6 @@
    "overdue": true,
    "notes": "Tym reassigned E.J. to Joshua 10/29 (Sales WA). Last touch: Tim texted 10/28 ~1:40 PM re scope review, no reply yet. Goal: get building brand/model/specs (or OK for concrete-only alternate) so we can build the proposal, and a dated next step. Call first; text as leave-behind. No $ in SMS.",
    "draft": ""
-  },
-  {
-   "title": "WATCHMAN: Second touch after VM \u2014 Christine Casey (new Angi lead, driveway)",
-   "contact": "Christine Casey",
-   "owner": "Tym M",
-   "due": "2026-10-30T17:00:00.000Z",
-   "overdue": true,
-   "notes": "Next action: New lead Mon 2:54 PM. Welcome texts sent; you left a VM Mon 4 PM. No reply yet. Call again this morning, then text if no answer. Qualify size, budget and timing and book a visit.",
-   "draft": "Hi Christine, this is Tim with Cornerstone Build Company. I left you a voicemail yesterday about your new driveway. When's a good time for a quick call? A few photos here would help me get you a price range.\nDraft only, do not auto-send."
   },
   {
    "title": "Owner Follow Up Call",
@@ -545,29 +548,11 @@
    "draft": ""
   },
   {
-   "title": "Call rick meek november 2nd",
-   "contact": "Rick Meek",
-   "owner": "Nehemiah",
-   "due": "2026-11-02T22:00:00.000Z",
-   "overdue": true,
-   "notes": "",
-   "draft": ""
-  },
-  {
-   "title": "Meta Instant Form lead \u2013 review intake",
-   "contact": "Anita Cannon",
-   "owner": "Tym M",
-   "due": "2026-11-03T07:00:00.000Z",
-   "overdue": true,
-   "notes": "Meta Instant Form lead \u2013 review intake",
-   "draft": ""
-  },
-  {
    "title": "Courtesy text 30 min before arrival - David White site visit (Tue 11/3, window 10-12)",
    "contact": "David White",
    "owner": "Joshua Z",
    "due": "2026-11-03T16:30:00.000Z",
-   "overdue": false,
+   "overdue": true,
    "notes": "Send 30 min before Joshua & Nehemiah's ACTUAL arrival (window 10 AM-12 PM AZ; due time is the earliest case, adjust to real ETA). Gated community: confirm gate access first. Draft (no $): Hi David, Joshua and Nehemiah are about 30 minutes out and will see you shortly at the house on 117th. Human send only.",
    "draft": ""
   },
@@ -576,7 +561,7 @@
    "contact": "Gary Bovard",
    "owner": "Nehemiah",
    "due": "2026-11-04T15:00:00.000Z",
-   "overdue": false,
+   "overdue": true,
    "notes": "Need to push this to either a yes or a no, figure out next week whether he wants to go with us or move on to the next one",
    "draft": ""
   },
@@ -608,6 +593,24 @@
    "draft": ""
   },
   {
+   "title": "David White Est Sent: soft nudge / questions (Wed 11/4)",
+   "contact": "David White",
+   "owner": "Joshua Z",
+   "due": "2026-11-04T16:00:00.000Z",
+   "overdue": false,
+   "notes": "Proposals emailed 11/3 (concrete + pavers Select/Performance/Legacy + optional apron pending HOA), valid thru 12/3. Landed SMS sent 11/3 11:57 AM. Skip if David already engaged. DRAFT ONLY, human send:\n\"Had a chance to look through the driveway options yet? Happy to answer any questions on the concrete vs paver side, or what changes between the levels.\"",
+   "draft": ""
+  },
+  {
+   "title": "Angela Marsh \u2014 Est Sent soft nudge (SMS draft on desk)",
+   "contact": "Angela Marsh",
+   "owner": "Nehemiah",
+   "due": "2026-11-04T16:00:00.000Z",
+   "overdue": false,
+   "notes": "CBC-2026-AMARSH Select $10,860 sent 11/3. Draft: Hi Angela, Nehemiah again. Happy to hop on a quick call if anything in the proposal needs clarifying. What time works? \u2014 draft only until send OK.",
+   "draft": ""
+  },
+  {
    "title": "Courtesy text Tim Werner 30 min before arrival (Wed 11/4 site walk)",
    "contact": "Timothy W Werner",
    "owner": "Joshua Z",
@@ -633,6 +636,33 @@
    "overdue": false,
    "notes": "Send ~30 min before your actual arrival at 12836 Cochran Rd, Florence (window 2-4 PM). Address is hard to find, confirm pin. Draft: \"Hi Alan, it's Joshua with Cornerstone. Heading your way now, should be there in about 30 minutes.\"",
    "draft": ""
+  },
+  {
+   "title": "Billing: C-23 Curd collect final balance (CBC-2026-NC01-D4) \u2014 OPEN AR",
+   "contact": "Nancy Curd",
+   "owner": "Nehemiah",
+   "due": "2026-11-05T00:00:00.000Z",
+   "overdue": false,
+   "notes": "OVERDUE: Final walkthrough balance invoice CBC-2026-NC01-D4 emailed 11/2 ~2:41 PM AZ (Gmail 1a19e360f3557607) after Tym approved + punch cleared. Jobs AR $500 (Y/Z 18000/17500). Finance WF ...9277: no +$500 / Curd / Nancy match as of 11/4 ~8:25 AM AZ chase (no inflows since 10/30). Punch COMPLETE per Joshua 11/1. Contact njcurd@gmail.com / (602) 628-2956. Billing owns post-Won remaining-balance chase. Do NOT invent paid. Confirm bank/Jobs Collected before closing.\nNext: soft SMS follow-up pointing to the emailed invoice (no $ in SMS). Hold send until Joshua/Tym OK.",
+   "draft": "Hi Nancy \u2014 just following up on the final invoice we emailed for Project Ahwatukee. Whenever you're ready, Zelle to tc@cornerstonebuildcompany.com works great, or we can arrange a check pickup. Thank you!"
+  },
+  {
+   "title": "David White Est Sent: midweek push + HOA check (Thu 11/5)",
+   "contact": "David White",
+   "owner": "Joshua Z",
+   "due": "2026-11-05T16:00:00.000Z",
+   "overdue": false,
+   "notes": "Push next step and check HOA status on the apron. SMS or call. DRAFT ONLY, human send:\n\"How's the HOA side coming along on the apron? If you're leaning toward one of the options, I can hold a spot on our schedule while that gets sorted.\"",
+   "draft": ""
+  },
+  {
+   "title": "Angela Marsh \u2014 Est Sent midweek push (SMS draft on desk)",
+   "contact": "Angela Marsh",
+   "owner": "Nehemiah",
+   "due": "2026-11-05T16:00:00.000Z",
+   "overdue": false,
+   "notes": "",
+   "draft": "Hi Angela, it's Nehemiah. Ready to lock a start window once you're set on the proposal. Want me to hold a week that works for you? \u2014 draft only until send OK."
   },
   {
    "title": "Call Tony Mackelprang re: Des Moines proposal",
@@ -662,6 +692,15 @@
    "draft": ""
   },
   {
+   "title": "David White Est Sent: Friday decision ask (Fri 11/6)",
+   "contact": "David White",
+   "owner": "Joshua Z",
+   "due": "2026-11-06T16:00:00.000Z",
+   "overdue": false,
+   "notes": "Decision ask. SMS or call. DRAFT ONLY, human send:\n\"Wanted to see where you're landing on the driveway. If you've picked an option, just reply to the email with your choice and we'll send the agreement over for signature.\"",
+   "draft": ""
+  },
+  {
    "title": "Lynn Wieser: Friday decision CALL / email reply - SMS blocked",
    "contact": "Lynn Wieser",
    "owner": "Joshua Z",
@@ -669,6 +708,15 @@
    "overdue": false,
    "notes": "DRAFT ONLY. SMS BLOCKED (DND / Twilio 30006). Call (602) 943-2892 or reply on email thread 1a188a42bd203783.\nCALL: \"Hi Lynn, Joshua with Cornerstone. Just wanted to see where you've landed on the driveway. If you're ready, we can get you scheduled. If you're still deciding or want something changed, tell me what would help.\"\nVM: \"Hi Lynn, Joshua with Cornerstone. Checking where you're at on the driveway repair. If you'd like to move forward or change anything, call me at 480-526-4342.\"\nEMAIL REPLY: \"Hi Lynn, where are you leaning on the driveway repair? If you're ready, we'll get you on the sc",
    "draft": ""
+  },
+  {
+   "title": "Angela Marsh \u2014 Est Sent Friday decision ask",
+   "contact": "Angela Marsh",
+   "owner": "Nehemiah",
+   "due": "2026-11-06T16:00:00.000Z",
+   "overdue": false,
+   "notes": "",
+   "draft": "Hi Angela, Nehemiah here. Wanted to see where you're at on the curb-cut proposal so we can plan crew. Are you leaning yes, or is something holding you back? \u2014 draft only until send OK."
   },
   {
    "title": "Follow up \u2014 HOA approval check",
@@ -695,6 +743,51 @@
    "due": "2026-11-06T16:00:00.000Z",
    "overdue": false,
    "notes": "DRAFT ONLY. Send only after Joshua OKs this specific text.\nEst Sent chase: driveway proposal CBC-2026-0CF576 emailed 10/26. Tue nudge 10/27 and midweek push 10/29 sent; Fri decision ask got no reply as of Mon 11/2.\n+1 week last push. Call first if you can (site-visit rapport), text if no pickup. Skip if Hugo already replied or signed. No reply after this: Long-Term Nurture or Lost (hand Watchman, clear open tasks).\nDraft SMS:\nHi Hugo, it's Joshua. Last check-in on the driveway. Do you still want to move forward, or should I close it out for now? Either answer is totally fine.",
+   "draft": ""
+  },
+  {
+   "title": "WATCHMAN: Second touch after VM \u2014 Melissia Knowles (new Angi lead, driveway)",
+   "contact": "Melissia Knowles",
+   "owner": "Tym M",
+   "due": "2026-11-06T17:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: New lead Mon 12:48 PM. Welcome texts sent; you left a VM Mon 12:49 PM. No reply yet. Call again this morning, then text if no answer. Qualify size, budget and timing and book a visit.",
+   "draft": "Hi Melissia, this is Tim with Cornerstone Build Company. Following up on your concrete driveway request. When's a good time for a quick call? Feel free to text a few photos here too.\nDraft only, do not auto-send."
+  },
+  {
+   "title": "WATCHMAN: Set visit time by text \u2014 Robert Grunstein (new Angi lead, driveway)",
+   "contact": "Robert M Grunstein",
+   "owner": "Tym M",
+   "due": "2026-11-06T17:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: New lead Mon 10:05 AM. Robert asked to text, not call. Joshua offered a stop by Mon 3 to 5 PM; no reply since. Text once today to offer two visit windows and ask for a photo of the driveway. Once a time is set, book it on the Site Visit calendar of whoever runs it.",
+   "draft": "Hi Robert, this is Tim with Cornerstone Build Company. Following up on your driveway. Would tomorrow morning or Thursday afternoon work for a quick look? A photo of the area here would help too.\nDraft only, do not auto-send."
+  },
+  {
+   "title": "WATCHMAN: Second touch after VM \u2014 Christine Casey (new Angi lead, driveway)",
+   "contact": "Christine Casey",
+   "owner": "Tym M",
+   "due": "2026-11-06T17:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action: New lead Mon 2:54 PM. Welcome texts sent; you left a VM Mon 4 PM. No reply yet. Call again this morning, then text if no answer. Qualify size, budget and timing and book a visit.",
+   "draft": "Hi Christine, this is Tim with Cornerstone Build Company. I left you a voicemail yesterday about your new driveway. When's a good time for a quick call? A few photos here would help me get you a price range.\nDraft only, do not auto-send."
+  },
+  {
+   "title": "Angela Marsh \u2014 Est Sent last push / get-in-or-out",
+   "contact": "Angela Marsh",
+   "owner": "Nehemiah",
+   "due": "2026-11-10T16:00:00.000Z",
+   "overdue": false,
+   "notes": "",
+   "draft": "Hi Angela, last check-in from me on the Enid Ave curb-cut. If timing isn't right we can close the file for now. Still interested, or should I pause? \u2014 draft only until send OK. Then LTN or Lost + clear tasks."
+  },
+  {
+   "title": "David White Est Sent: +1 week last push (Tue 11/10)",
+   "contact": "David White",
+   "owner": "Joshua Z",
+   "due": "2026-11-10T16:00:00.000Z",
+   "overdue": false,
+   "notes": "Last push; after this move to Long-Term Nurture or Lost (via Watchman) and clear open tasks. DRAFT ONLY, human send:\n\"Checking in one more time on the driveway. Are you still planning to move forward this year, or should I check back once the HOA gets back to you?\"",
    "draft": ""
   },
   {
@@ -752,6 +845,15 @@
    "draft": ""
   },
   {
+   "title": "Call Rick Meek back Dec 1",
+   "contact": "Rick Meek",
+   "owner": "Nehemiah",
+   "due": "2026-12-01T16:00:00.000Z",
+   "overdue": false,
+   "notes": "Nehemiah called 11/3/2026 \u2014 Rick said call back December 1st. Address: 2915 S Sleepy Acre Ln, Phoenix. Opp BUcIZXGjWCduKC3H2ahX (~$13k Est Sent / Angi).",
+   "draft": ""
+  },
+  {
    "title": "Follow up 12/15 \u2014 carport site visit (Ruth Meyerpeter)",
    "contact": "Ruth Meyerpeter",
    "owner": "Nehemiah",
@@ -768,30 +870,38 @@
    "overdue": false,
    "notes": "Client was not ready to even think about the project until next year. Call or text to follow up the start of the year to see when might be a better time if he still had a desire to do it.",
    "draft": ""
+  },
+  {
+   "title": "Long term nurture - Follow up 2027",
+   "contact": "Michael Williams",
+   "owner": "Nehemiah",
+   "due": "2027-03-01T15:00:00.000Z",
+   "overdue": false,
+   "notes": "Follow up to see if he's still interested in putting in a pickleball court.",
+   "draft": ""
   }
  ],
- "overdue": 11,
+ "overdue": 8,
  "playbook": {
   "Joshua Z": [
-   "Hugo Sanchez (Estimate Sent/Follow Up, $28,000): Estimate Sent \u00b7 7d no stage move",
-   "Paul Crump (Estimate Sent/Follow Up, $10,990): Estimate Sent \u00b7 18d no stage move",
-   "Jim Evridge (Contacted/Working on It, $8,000): Contacted \u00b7 27d no stage move",
-   "martinez sr frank b. \u2014 Driveway or parking area (Contacted/Working on It, $0): Contacted \u00b7 18d no stage move",
-   "Nancy Lathrop (Appointment Set, $5,000): no open task \u2014 set next step",
+   "Hugo Sanchez (Estimate Sent/Follow Up, $28,000): Estimate Sent \u00b7 8d no stage move",
+   "Paul Crump (Estimate Sent/Follow Up, $10,990): Estimate Sent \u00b7 19d no stage move",
+   "Jim Evridge (Contacted/Working on It, $8,000): Contacted \u00b7 28d no stage move",
+   "martinez sr frank b. \u2014 Driveway or parking area (Contacted/Working on It, $0): Contacted \u00b7 19d no stage move",
    "Scott Walker - CY Phoenix pool infill RFP (Contacted/Working on It, $0): no open task \u2014 set next step"
   ],
   "Nehemiah": [
-   "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 40d no stage move",
-   "Roger D. Miller (Estimate Sent/Follow Up, $11,334): Estimate Sent \u00b7 24d no stage move",
-   "E.J. Martin (Contacted/Working on It, $5,000): Contacted \u00b7 21d no stage move"
+   "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 41d no stage move",
+   "Roger D. Miller (Estimate Sent/Follow Up, $11,334): Estimate Sent \u00b7 25d no stage move",
+   "Nancy Lathrop (Appointment Set, $5,000): no open task \u2014 set next step"
   ],
   "Tym M": [
-   "Melissia Knowles (New Lead, $5,000): New Lead \u00b7 7d no stage move",
-   "Jonathan Partridge (New Lead, $5,000): New Lead \u00b7 4d no stage move",
-   "Dawn Stevens (New Lead, $5,000): New Lead \u00b7 4d no stage move",
-   "Diego Ramirez (New Lead, $5,000): New Lead \u00b7 3d no stage move",
-   "Lauren Goode (Contacted/Working on It, $5,000): Contacted \u00b7 27d no stage move",
-   "Roger Spears (Contacted/Working on It, $5,000): Contacted \u00b7 26d no stage move"
+   "Melissia Knowles (New Lead, $5,000): New Lead \u00b7 8d no stage move",
+   "Jonathan Partridge (New Lead, $5,000): New Lead \u00b7 5d no stage move",
+   "Dawn Stevens (New Lead, $5,000): New Lead \u00b7 5d no stage move",
+   "Diego Ramirez (New Lead, $5,000): New Lead \u00b7 4d no stage move",
+   "Lauren Goode (Contacted/Working on It, $5,000): Contacted \u00b7 28d no stage move",
+   "Roger Spears (Contacted/Working on It, $5,000): Contacted \u00b7 27d no stage move"
   ]
  },
  "calls": [
@@ -960,55 +1070,51 @@
  "risks": [
   {
    "type": "Stale",
-   "text": "Diego Ramirez \u2014 New Lead \u00b7 3d no stage move, $5,000 (Tym M)"
+   "text": "Diego Ramirez \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Jonathan Partridge \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Jonathan Partridge \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Dawn Stevens \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Dawn Stevens \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Melissia Knowles \u2014 New Lead \u00b7 7d no stage move, $5,000 (Tym M)"
+   "text": "Melissia Knowles \u2014 New Lead \u00b7 8d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Hugo Sanchez \u2014 Estimate Sent \u00b7 7d no stage move, $28,000 (Joshua Z)"
+   "text": "Hugo Sanchez \u2014 Estimate Sent \u00b7 8d no stage move, $28,000 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "martinez sr frank b. \u2014 Driveway or parking area \u2014 Contacted \u00b7 18d no stage move, $0 (Joshua Z)"
+   "text": "martinez sr frank b. \u2014 Driveway or parking area \u2014 Contacted \u00b7 19d no stage move, $0 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Paul Crump \u2014 Estimate Sent \u00b7 18d no stage move, $10,990 (Joshua Z)"
+   "text": "Paul Crump \u2014 Estimate Sent \u00b7 19d no stage move, $10,990 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "E.J. Martin \u2014 Contacted \u00b7 21d no stage move, $5,000 (Nehemiah)"
+   "text": "Roger D. Miller \u2014 Estimate Sent \u00b7 25d no stage move, $11,334 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Roger D. Miller \u2014 Estimate Sent \u00b7 24d no stage move, $11,334 (Nehemiah)"
+   "text": "Lauren Goode \u2014 Contacted \u00b7 28d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Lauren Goode \u2014 Contacted \u00b7 27d no stage move, $5,000 (Tym M)"
+   "text": "Jim Evridge \u2014 Contacted \u00b7 28d no stage move, $8,000 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Jim Evridge \u2014 Contacted \u00b7 27d no stage move, $8,000 (Joshua Z)"
+   "text": "Tony Mackelprang \u2014 Estimate Sent \u00b7 41d no stage move, $23,226 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Tony Mackelprang \u2014 Estimate Sent \u00b7 40d no stage move, $23,226 (Nehemiah)"
-  },
-  {
-   "type": "Stale",
-   "text": "Roger Spears \u2014 Contacted \u00b7 26d no stage move, $5,000 (Tym M)"
+   "text": "Roger Spears \u2014 Contacted \u00b7 27d no stage move, $5,000 (Tym M)"
   }
  ]
 }
