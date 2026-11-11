@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T08:19-07:00",
+ "generatedAt": "2026-11-11T08:24-07:00",
  "kpi": {
   "open_count": 43,
   "open_value": 518732.45,
@@ -7,13 +7,13 @@
   "active_value": 518732.45,
   "won_count": 29,
   "won_value": 336040.7,
-  "lost_count": 322,
-  "lost_value": 2705994.01
+  "lost_count": 324,
+  "lost_value": 2715994.01
  },
  "by_stage": {
   "New Lead": {
-   "count": 12,
-   "value": 60000.0,
+   "count": 9,
+   "value": 45000.0,
    "color": "#DC2626"
   },
   "Contacted/Working on It": {
@@ -22,8 +22,8 @@
    "color": "#EA580C"
   },
   "Appointment Set": {
-   "count": 3,
-   "value": 10000.0,
+   "count": 6,
+   "value": 25000.0,
    "color": "#CA8A04"
   },
   "Needs Proposal": {
@@ -54,12 +54,12 @@
  },
  "owners": {
   "Tym M": {
-   "count": 18,
-   "value": 90000.0
+   "count": 17,
+   "value": 85000.0
   },
   "Joshua Z": {
-   "count": 12,
-   "value": 281392.45
+   "count": 13,
+   "value": 286392.45
   },
   "Nehemiah": {
    "count": 12,
@@ -77,19 +77,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Joshua Z",
-   "days": 11,
+   "days": 12,
    "tasks": 1,
-   "flag": "New Lead \u00b7 11d no stage move"
-  },
-  {
-   "id": "qcqSt4zScdzTLKL78tg1",
-   "name": "Dawn Stevens",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Joshua Z",
-   "days": 11,
-   "tasks": 1,
-   "flag": "New Lead \u00b7 11d no stage move"
+   "flag": "New Lead \u00b7 12d no stage move"
   },
   {
    "id": "HhTyGXPaNWra6v4YusSV",
@@ -97,9 +87,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 10,
+   "days": 11,
    "tasks": 1,
-   "flag": "New Lead \u00b7 10d no stage move"
+   "flag": "New Lead \u00b7 11d no stage move"
   },
   {
    "id": "Qqfs1yLUsBLqbyAcC1ZX",
@@ -107,13 +97,23 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
-   "flag": "New Lead \u00b7 7d no stage move"
+   "flag": "New Lead \u00b7 8d no stage move"
   },
   {
    "id": "u5B2UY7ehYh9eUnTy5CC",
    "name": "Rebecca Dixon",
+   "value": 5000.0,
+   "stage": "New Lead",
+   "owner": "Tym M",
+   "days": 6,
+   "tasks": 1,
+   "flag": "New Lead \u00b7 6d no stage move"
+  },
+  {
+   "id": "yfqueCN83wDffAqtkiMZ",
+   "name": "Al Willmes",
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
@@ -122,24 +122,14 @@
    "flag": "New Lead \u00b7 5d no stage move"
   },
   {
-   "id": "yfqueCN83wDffAqtkiMZ",
-   "name": "Al Willmes",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 4,
-   "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
-  },
-  {
    "id": "p325VqK8YeTYQT2yoxpp",
    "name": "John Dunton",
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
+   "flag": "New Lead \u00b7 5d no stage move"
   },
   {
    "id": "5I0CtmH9v7MlaGRZeZHz",
@@ -147,19 +137,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
-  },
-  {
-   "id": "6GBvTThvAC2NLTDjnaHi",
-   "name": "Bruce Roeser",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 4,
-   "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
+   "flag": "New Lead \u00b7 5d no stage move"
   },
   {
    "id": "30wGfr8PUcrQx2InJJWw",
@@ -167,9 +147,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
+   "flag": "New Lead \u00b7 5d no stage move"
   },
   {
    "id": "LmGs30TadHlFY7Oct47r",
@@ -177,19 +157,9 @@
    "value": 5000.0,
    "stage": "New Lead",
    "owner": "Tym M",
-   "days": 4,
+   "days": 5,
    "tasks": 1,
-   "flag": "New Lead \u00b7 4d no stage move"
-  },
-  {
-   "id": "g4ZyMG83Fk9qn8Die9Ur",
-   "name": "Lucia Vannoy",
-   "value": 5000.0,
-   "stage": "New Lead",
-   "owner": "Tym M",
-   "days": 0,
-   "tasks": 1,
-   "flag": null
+   "flag": "New Lead \u00b7 5d no stage move"
   },
   {
    "id": "ryH5tsmwFwHSuCLXDhPj",
@@ -197,9 +167,9 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 34,
+   "days": 35,
    "tasks": 1,
-   "flag": "Contacted \u00b7 34d no stage move"
+   "flag": "Contacted \u00b7 35d no stage move"
   },
   {
    "id": "4MqYxFOtyjcHgWMi3kax",
@@ -207,9 +177,9 @@
    "value": 8000.0,
    "stage": "Contacted/Working on It",
    "owner": "Joshua Z",
-   "days": 34,
+   "days": 35,
    "tasks": 1,
-   "flag": "Contacted \u00b7 34d no stage move"
+   "flag": "Contacted \u00b7 35d no stage move"
   },
   {
    "id": "qEOrCrcgQ9YPT4q8REZF",
@@ -217,9 +187,9 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 33,
+   "days": 34,
    "tasks": 1,
-   "flag": "Contacted \u00b7 33d no stage move"
+   "flag": "Contacted \u00b7 34d no stage move"
   },
   {
    "id": "p85t3oUTOC5u5C5a56oX",
@@ -227,9 +197,9 @@
    "value": 0.0,
    "stage": "Contacted/Working on It",
    "owner": "Joshua Z",
-   "days": 25,
+   "days": 26,
    "tasks": 1,
-   "flag": "Contacted \u00b7 25d no stage move"
+   "flag": "Contacted \u00b7 26d no stage move"
   },
   {
    "id": "RUrP2Q3EDJcJHfqUD6F6",
@@ -237,7 +207,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 12,
+   "days": 13,
    "tasks": 1,
    "flag": null
   },
@@ -247,7 +217,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 12,
+   "days": 13,
    "tasks": 1,
    "flag": null
   },
@@ -257,7 +227,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 12,
+   "days": 13,
    "tasks": 1,
    "flag": null
   },
@@ -267,7 +237,7 @@
    "value": 5000.0,
    "stage": "Contacted/Working on It",
    "owner": "Tym M",
-   "days": 11,
+   "days": 12,
    "tasks": 1,
    "flag": null
   },
@@ -277,7 +247,7 @@
    "value": 5000.0,
    "stage": "Appointment Set",
    "owner": "Joshua Z",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
    "flag": null
   },
@@ -287,7 +257,7 @@
    "value": 5000.0,
    "stage": "Appointment Set",
    "owner": "Joshua Z",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
    "flag": null
   },
@@ -297,8 +267,38 @@
    "value": 0.0,
    "stage": "Appointment Set",
    "owner": "Nehemiah",
-   "days": 5,
+   "days": 6,
    "tasks": 1,
+   "flag": null
+  },
+  {
+   "id": "g4ZyMG83Fk9qn8Die9Ur",
+   "name": "Lucia Vannoy",
+   "value": 5000.0,
+   "stage": "Appointment Set",
+   "owner": "Tym M",
+   "days": 0,
+   "tasks": 1,
+   "flag": null
+  },
+  {
+   "id": "6GBvTThvAC2NLTDjnaHi",
+   "name": "Bruce Roeser",
+   "value": 5000.0,
+   "stage": "Appointment Set",
+   "owner": "Joshua Z",
+   "days": 0,
+   "tasks": 0,
+   "flag": null
+  },
+  {
+   "id": "qcqSt4zScdzTLKL78tg1",
+   "name": "Dawn Stevens",
+   "value": 5000.0,
+   "stage": "Appointment Set",
+   "owner": "Joshua Z",
+   "days": 0,
+   "tasks": 0,
    "flag": null
   },
   {
@@ -307,9 +307,9 @@
    "value": 23226.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 47,
+   "days": 48,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 47d no stage move"
+   "flag": "Estimate Sent \u00b7 48d no stage move"
   },
   {
    "id": "sqgczlKa2CfS0KG7DouK",
@@ -317,9 +317,9 @@
    "value": 11333.5,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 31,
+   "days": 32,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 31d no stage move"
+   "flag": "Estimate Sent \u00b7 32d no stage move"
   },
   {
    "id": "XqBovqbKjmVpmaT6pg6v",
@@ -327,9 +327,9 @@
    "value": 10990.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 25,
+   "days": 26,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 25d no stage move"
+   "flag": "Estimate Sent \u00b7 26d no stage move"
   },
   {
    "id": "NjQQMXVhELwvVPjhF5b9",
@@ -337,9 +337,9 @@
    "value": 28000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 14,
+   "days": 15,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 14d no stage move"
+   "flag": "Estimate Sent \u00b7 15d no stage move"
   },
   {
    "id": "ASKSPramnWcZQ13nCi5H",
@@ -347,9 +347,9 @@
    "value": 186322.45,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 12,
+   "days": 13,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 12d no stage move"
+   "flag": "Estimate Sent \u00b7 13d no stage move"
   },
   {
    "id": "omex9icP2Xp2lE27N6QA",
@@ -357,9 +357,9 @@
    "value": 6880.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Joshua Z",
-   "days": 11,
+   "days": 12,
    "tasks": 2,
-   "flag": "Estimate Sent \u00b7 11d no stage move"
+   "flag": "Estimate Sent \u00b7 12d no stage move"
   },
   {
    "id": "gYqVbjEoEbW8j9vkcW8v",
@@ -367,9 +367,9 @@
    "value": 28580.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 11,
+   "days": 12,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 11d no stage move"
+   "flag": "Estimate Sent \u00b7 12d no stage move"
   },
   {
    "id": "MDBEZRDHdV4dv5YzCTYx",
@@ -377,9 +377,9 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 10,
+   "days": 11,
    "tasks": 1,
-   "flag": "Estimate Sent \u00b7 10d no stage move"
+   "flag": "Estimate Sent \u00b7 11d no stage move"
   },
   {
    "id": "GTKSSDJpS5yCxM0jUeaG",
@@ -387,9 +387,9 @@
    "value": 10860.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 6,
+   "days": 7,
    "tasks": 1,
-   "flag": null
+   "flag": "Estimate Sent \u00b7 7d no stage move"
   },
   {
    "id": "APoJP8w6phZw2uzEohA3",
@@ -397,9 +397,9 @@
    "value": 5000.0,
    "stage": "Estimate Sent/Follow Up",
    "owner": "Nehemiah",
-   "days": 6,
+   "days": 7,
    "tasks": 1,
-   "flag": null
+   "flag": "Estimate Sent \u00b7 7d no stage move"
   },
   {
    "id": "Inc62c5NkfElxHOKwCpJ",
@@ -407,7 +407,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 68,
+   "days": 69,
    "tasks": 1,
    "flag": null
   },
@@ -417,7 +417,7 @@
    "value": 13000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 68,
+   "days": 69,
    "tasks": 1,
    "flag": null
   },
@@ -427,7 +427,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Tym M",
-   "days": 45,
+   "days": 46,
    "tasks": 0,
    "flag": null
   },
@@ -437,7 +437,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 28,
+   "days": 29,
    "tasks": 1,
    "flag": null
   },
@@ -447,7 +447,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 25,
+   "days": 26,
    "tasks": 1,
    "flag": null
   },
@@ -457,7 +457,7 @@
    "value": 22000.0,
    "stage": "Long-Term Nurture",
    "owner": "Nehemiah",
-   "days": 20,
+   "days": 21,
    "tasks": 1,
    "flag": null
   },
@@ -467,7 +467,7 @@
    "value": 13340.0,
    "stage": "Long-Term Nurture",
    "owner": "TC",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
    "flag": null
   },
@@ -477,7 +477,7 @@
    "value": 16200.0,
    "stage": "Long-Term Nurture",
    "owner": "Joshua Z",
-   "days": 7,
+   "days": 8,
    "tasks": 1,
    "flag": null
   },
@@ -487,7 +487,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Tym M",
-   "days": 5,
+   "days": 6,
    "tasks": 0,
    "flag": null
   },
@@ -497,7 +497,7 @@
    "value": 5000.0,
    "stage": "Long-Term Nurture",
    "owner": "Joshua Z",
-   "days": 0,
+   "days": 1,
    "tasks": 1,
    "flag": null
   }
@@ -564,24 +564,6 @@
    "due": "2026-11-06T17:00:00.000Z",
    "overdue": true,
    "notes": "Next action: Already had multi-touch chase including close-ask SMS 11/4. Do not restart the cadence or send another last-try blast unless owner explicitly asks. Owner (Tym) decide: Long-Term Nurture vs Lost. If Lost: hand Watchman Lost + clear tasks. Keep a real next action \u2014 do not leave blank.\nInternal only. No auto-send.",
-   "draft": ""
-  },
-  {
-   "title": "Lead chase D1 - Al Willmes - call + text",
-   "contact": "Al Willmes",
-   "owner": "Tym M",
-   "due": "2026-11-06T17:00:00.000Z",
-   "overdue": true,
-   "notes": "WATCHMAN 11/6 AM: D0 done 11/5 evening (Tym call 48s + VM text + Angi welcome). Silent since. Next = D1 call + text (Joshua send OK on draft). Do not burst.",
-   "draft": ""
-  },
-  {
-   "title": "Dawn Stevens - confirm tentative Mon 11/9 11 AM visit",
-   "contact": "Dawn Stevens",
-   "owner": "Joshua Z",
-   "due": "2026-11-06T17:00:00.000Z",
-   "overdue": true,
-   "notes": "Next action: Confirm the tentative Mon 11/9 11 AM site visit with Dawn. If it's confirmed, book it on your Site Visit calendar and Watchman will align the owner. Not part of the no-answer chase, so no generic chase texts. GHL has no messages from Dawn since 10/30. The last outbound was a text on 10/29.\nInternal only. No customer copy drafted here.",
    "draft": ""
   },
   {
@@ -693,15 +675,6 @@
    "draft": ""
   },
   {
-   "title": "Bruce Roeser - confirm you're running Tue 11/17 10-12 visit, then SM books appt (Mon, Joshua)",
-   "contact": "Bruce Roeser",
-   "owner": "Joshua Z",
-   "due": "2026-11-09T20:00:00.000Z",
-   "overdue": true,
-   "notes": "Bruce agreed 11/5 by SMS to Tue 11/17 10 AM-12 PM window (Tym: 'Got you scheduled'). No GHL appointment exists. Joshua: confirm you take the visit (8226 E Whitton Ave, Scottsdale; driveway replace). Then Sales Manager creates GHL appt (notifications off) and hands Watchman Appointment Set + owner Joshua. No customer text needed now; Tym promised a 30-min courtesy text before arrival.",
-   "draft": ""
-  },
-  {
    "title": "Bill Gallagher - get Tym's 11/5 call notes, offer Tucson visit (Mon, Joshua)",
    "contact": "Bill Gallagher",
    "owner": "Joshua Z",
@@ -724,26 +697,8 @@
    "contact": "Angela Marsh",
    "owner": "Joshua Z",
    "due": "2026-11-10T16:00:00.000Z",
-   "overdue": false,
+   "overdue": true,
    "notes": "Get-in-or-out SMS went 11/6 10:09. Skip if she replied. Tue: call; DRAFT SMS: Hi Angela, it's Joshua with Cornerstone, I'm picking up your project from Nehemiah. Should I keep it open for you, or close the file for now?",
-   "draft": ""
-  },
-  {
-   "title": "Lead chase D7 - Diego Ramirez - last text then owner nurture/Lost decision",
-   "contact": "Diego Ramirez",
-   "owner": "Tym M",
-   "due": "2026-11-10T17:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action (Tue 11/10 ~10 AM AZ): D7 LAST text (draft waits for Joshua send OK), then owner decides nurture or Lost (Lost needs Joshua OK). Evidence: D0 Fri 10/30 Nehemiah call 55s + text; 11/4 bump text; D5 text sent 11/6 10:09 AM (OoPu9Hqt, task 7k8bwuPyeyUkmPkJMWzy completed). No inbound since 10/30. Draft: 'Hi Diego, Tym with Cornerstone. Last note from me on the driveway and parking extension. Still want us to take a look, or is it okay if I close it out for now?' Stop if: reply, booking, DND, hold, Lost. Created by Watchman 11/9.",
-   "draft": ""
-  },
-  {
-   "title": "Lead chase D0 - Lucia Vannoy - log 11/10 call outcome, VM + text if no answer",
-   "contact": "Lucia Vannoy",
-   "owner": "Tym M",
-   "due": "2026-11-10T18:00:00.000Z",
-   "overdue": false,
-   "notes": "Next action (Tue 11/10 by ~11 AM AZ): log the actual outcome of Tym's 11/10 8:16 AM outbound calls (one 13s, one still ringing at 8:16) in a note. Duration alone does not prove a conversation or voicemail. If connected/engaged -> close this and hand to Sales Manager. If no conversation -> leave VM if appropriate, then D0 text (Watchman draft waits for Joshua send OK): 'Hi Lucia, Tym with Cornerstone. Just tried you about your project in Oro Valley. What is a good time to chat today or tomorrow?' Then D1 call+text Wed 11/11. Evidence: new Angi lead 11/10 8:14 AM AZ; Angi welcome SMS x2 8:14 AM;",
    "draft": ""
   },
   {
@@ -780,6 +735,15 @@
    "due": "2026-11-12T17:00:00.000Z",
    "overdue": false,
    "notes": "UPDATED 11/9 ~5:00 PM AZ. Tim can meet Thu 11/12 after 10 AM for demo-scope walk. Tym is booking \u2014 do NOT book in GHL.\nWhen due: confirm GHL appointment exists for Thu after 10 at 875 N McClintock Bldg B; prep demo takeoff (AS-1) for the walk. Ex-tax concrete revision already sent 11/9 12:06 PM ($186,322.45). No customer send from this task.",
+   "draft": ""
+  },
+  {
+   "title": "Lead chase D3 - Al Willmes - call",
+   "contact": "Al Willmes",
+   "owner": "Tym M",
+   "due": "2026-11-12T18:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action (Thu 11/12 ~11 AM AZ): Tym D3 call. Call only, no text this step. Log the actual outcome in a note (duration alone does not prove a conversation or voicemail). If he answers/engages -> close and hand to Sales Manager. If silent -> D5 text next (Watchman draft, waits for Joshua send OK). Evidence: D0 11/5 (calls 4s/48s + VM text), D1 11/10 3:17 PM call 41s + 3:19 PM VM text; no reply. Spaced 2 days after D1, no catch-up burst. Stop if: reply, booking, DND, hold, Lost. Created by Watchman 11/11.",
    "draft": ""
   },
   {
@@ -828,6 +792,15 @@
    "draft": ""
   },
   {
+   "title": "Lead chase D7 - Diego Ramirez - owner nurture or Lost decision",
+   "contact": "Diego Ramirez",
+   "owner": "Tym M",
+   "due": "2026-11-13T17:00:00.000Z",
+   "overdue": false,
+   "notes": "Next action (Fri 11/13 ~10 AM AZ): owner decides Long-Term Nurture vs Lost. D7 last text already went out 11/10 8:29 AM AZ (Joshua OK); do NOT restart the cadence or send another last-try text. If he replies first -> close and hand to Sales Manager. Lost needs Joshua's OK; then hand Watchman the stage/reason. Evidence: D0 10/30, bump 11/4, D5 11/6, D7 11/10; no reply. Created by Watchman 11/11.",
+   "draft": ""
+  },
+  {
    "title": "Hugo Sanchez \u2014 Fri: set check-back month if no reply (Joshua)",
    "contact": "Hugo Sanchez",
    "owner": "Joshua Z",
@@ -870,6 +843,15 @@
    "due": "2026-11-17T17:00:00.000Z",
    "overdue": false,
    "notes": "Dated hold, no chase this week. Reassigned to Joshua.",
+   "draft": ""
+  },
+  {
+   "title": "Chat about Project",
+   "contact": "Jesse Yelp",
+   "owner": "Tym M",
+   "due": "2026-11-17T17:00:00.000Z",
+   "overdue": false,
+   "notes": "",
    "draft": ""
   },
   {
@@ -945,29 +927,31 @@
    "draft": ""
   }
  ],
- "overdue": 24,
+ "overdue": 22,
  "playbook": {
   "Joshua Z": [
-   "Timothy W Werner (Estimate Sent/Follow Up, $186,322): Estimate Sent \u00b7 12d no stage move",
-   "Hugo Sanchez (Estimate Sent/Follow Up, $28,000): Estimate Sent \u00b7 14d no stage move",
-   "Paul Crump (Estimate Sent/Follow Up, $10,990): Estimate Sent \u00b7 25d no stage move",
-   "Jim Evridge (Contacted/Working on It, $8,000): Contacted \u00b7 34d no stage move",
-   "Lynn Wieser (Estimate Sent/Follow Up, $6,880): Estimate Sent \u00b7 11d no stage move",
-   "Jonathan Partridge (New Lead, $5,000): New Lead \u00b7 11d no stage move"
+   "Timothy W Werner (Estimate Sent/Follow Up, $186,322): Estimate Sent \u00b7 13d no stage move",
+   "Hugo Sanchez (Estimate Sent/Follow Up, $28,000): Estimate Sent \u00b7 15d no stage move",
+   "Paul Crump (Estimate Sent/Follow Up, $10,990): Estimate Sent \u00b7 26d no stage move",
+   "Jim Evridge (Contacted/Working on It, $8,000): Contacted \u00b7 35d no stage move",
+   "Lynn Wieser (Estimate Sent/Follow Up, $6,880): Estimate Sent \u00b7 12d no stage move",
+   "Jonathan Partridge (New Lead, $5,000): New Lead \u00b7 12d no stage move"
   ],
   "Nehemiah": [
-   "Dale Kelley (Estimate Sent/Follow Up, $28,580): Estimate Sent \u00b7 11d no stage move",
-   "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 47d no stage move",
-   "Roger D. Miller (Estimate Sent/Follow Up, $11,334): Estimate Sent \u00b7 31d no stage move",
-   "Gary Bovard (Estimate Sent/Follow Up, $5,000): Estimate Sent \u00b7 10d no stage move"
+   "Dale Kelley (Estimate Sent/Follow Up, $28,580): Estimate Sent \u00b7 12d no stage move",
+   "Tony Mackelprang (Estimate Sent/Follow Up, $23,226): Estimate Sent \u00b7 48d no stage move",
+   "Roger D. Miller (Estimate Sent/Follow Up, $11,334): Estimate Sent \u00b7 32d no stage move",
+   "Angela Marsh (Estimate Sent/Follow Up, $10,860): Estimate Sent \u00b7 7d no stage move",
+   "Gary Bovard (Estimate Sent/Follow Up, $5,000): Estimate Sent \u00b7 11d no stage move",
+   "E.J. Martin (Estimate Sent/Follow Up, $5,000): Estimate Sent \u00b7 7d no stage move"
   ],
   "Tym M": [
-   "Diego Ramirez (New Lead, $5,000): New Lead \u00b7 10d no stage move",
-   "Raymond Ortiz (New Lead, $5,000): New Lead \u00b7 7d no stage move",
-   "Rebecca Dixon (New Lead, $5,000): New Lead \u00b7 5d no stage move",
-   "Al Willmes (New Lead, $5,000): New Lead \u00b7 4d no stage move",
-   "John Dunton (New Lead, $5,000): New Lead \u00b7 4d no stage move",
-   "Daniel Alcantar (New Lead, $5,000): New Lead \u00b7 4d no stage move"
+   "Diego Ramirez (New Lead, $5,000): New Lead \u00b7 11d no stage move",
+   "Raymond Ortiz (New Lead, $5,000): New Lead \u00b7 8d no stage move",
+   "Rebecca Dixon (New Lead, $5,000): New Lead \u00b7 6d no stage move",
+   "Al Willmes (New Lead, $5,000): New Lead \u00b7 5d no stage move",
+   "John Dunton (New Lead, $5,000): New Lead \u00b7 5d no stage move",
+   "Daniel Alcantar (New Lead, $5,000): New Lead \u00b7 5d no stage move"
   ]
  },
  "calls": [
@@ -1136,95 +1120,95 @@
  "risks": [
   {
    "type": "Stale",
-   "text": "Al Willmes \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Al Willmes \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "John Dunton \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "John Dunton \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Daniel Alcantar \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Daniel Alcantar \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Bruce Roeser \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Bill Gallagher \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Bill Gallagher \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Daniel Scott \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Daniel Scott \u2014 New Lead \u00b7 4d no stage move, $5,000 (Tym M)"
+   "text": "Rebecca Dixon \u2014 New Lead \u00b7 6d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Rebecca Dixon \u2014 New Lead \u00b7 5d no stage move, $5,000 (Tym M)"
+   "text": "Angela Marsh \u2014 Estimate Sent \u00b7 7d no stage move, $10,860 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Raymond Ortiz \u2014 New Lead \u00b7 7d no stage move, $5,000 (Tym M)"
+   "text": "Raymond Ortiz \u2014 New Lead \u00b7 8d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Diego Ramirez \u2014 New Lead \u00b7 10d no stage move, $5,000 (Tym M)"
+   "text": "Diego Ramirez \u2014 New Lead \u00b7 11d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Jonathan Partridge \u2014 New Lead \u00b7 11d no stage move, $5,000 (Joshua Z)"
+   "text": "Jonathan Partridge \u2014 New Lead \u00b7 12d no stage move, $5,000 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Dawn Stevens \u2014 New Lead \u00b7 11d no stage move, $5,000 (Joshua Z)"
+   "text": "Lynn Wieser \u2014 Estimate Sent \u00b7 12d no stage move, $6,880 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Lynn Wieser \u2014 Estimate Sent \u00b7 11d no stage move, $6,880 (Joshua Z)"
+   "text": "Timothy W Werner \u2014 Estimate Sent \u00b7 13d no stage move, $186,322 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Timothy W Werner \u2014 Estimate Sent \u00b7 12d no stage move, $186,322 (Joshua Z)"
+   "text": "Hugo Sanchez \u2014 Estimate Sent \u00b7 15d no stage move, $28,000 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Hugo Sanchez \u2014 Estimate Sent \u00b7 14d no stage move, $28,000 (Joshua Z)"
+   "text": "Dale Kelley \u2014 Estimate Sent \u00b7 12d no stage move, $28,580 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Dale Kelley \u2014 Estimate Sent \u00b7 11d no stage move, $28,580 (Nehemiah)"
+   "text": "martinez sr frank b. \u2014 Driveway or parking area \u2014 Contacted \u00b7 26d no stage move, $0 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "martinez sr frank b. \u2014 Driveway or parking area \u2014 Contacted \u00b7 25d no stage move, $0 (Joshua Z)"
+   "text": "Paul Crump \u2014 Estimate Sent \u00b7 26d no stage move, $10,990 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Paul Crump \u2014 Estimate Sent \u00b7 25d no stage move, $10,990 (Joshua Z)"
+   "text": "Gary Bovard \u2014 Estimate Sent \u00b7 11d no stage move, $5,000 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Gary Bovard \u2014 Estimate Sent \u00b7 10d no stage move, $5,000 (Nehemiah)"
+   "text": "E.J. Martin \u2014 Estimate Sent \u00b7 7d no stage move, $5,000 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Roger D. Miller \u2014 Estimate Sent \u00b7 31d no stage move, $11,334 (Nehemiah)"
+   "text": "Roger D. Miller \u2014 Estimate Sent \u00b7 32d no stage move, $11,334 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Lauren Goode \u2014 Contacted \u00b7 34d no stage move, $5,000 (Tym M)"
+   "text": "Lauren Goode \u2014 Contacted \u00b7 35d no stage move, $5,000 (Tym M)"
   },
   {
    "type": "Stale",
-   "text": "Jim Evridge \u2014 Contacted \u00b7 34d no stage move, $8,000 (Joshua Z)"
+   "text": "Jim Evridge \u2014 Contacted \u00b7 35d no stage move, $8,000 (Joshua Z)"
   },
   {
    "type": "Stale",
-   "text": "Tony Mackelprang \u2014 Estimate Sent \u00b7 47d no stage move, $23,226 (Nehemiah)"
+   "text": "Tony Mackelprang \u2014 Estimate Sent \u00b7 48d no stage move, $23,226 (Nehemiah)"
   },
   {
    "type": "Stale",
-   "text": "Roger Spears \u2014 Contacted \u00b7 33d no stage move, $5,000 (Tym M)"
+   "text": "Roger Spears \u2014 Contacted \u00b7 34d no stage move, $5,000 (Tym M)"
   }
  ]
 }
